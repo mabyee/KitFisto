@@ -1,0 +1,1544 @@
+﻿Log file open, 03/11/21 10:57:42
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: KitFisto
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.337479
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 7 3800X 8-Core Processor             , GPU: AMD Radeon RX 5700 XT
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=HenriPuennel -epicuserid=5e3a10abcd1f4a6fb4a6e246a1d4dd6c -epiclocale=en
+LogInit: Base Directory: E:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Engine.ini]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Engine.ini]
+[2021.03.11-10.57.42:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Engine.ini]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Engine.ini]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.11-10.57.42:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Engine.ini]
+[2021.03.11-10.57.42:853][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Engine.ini]
+[2021.03.11-10.57.42:858][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.11-10.57.42:858][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.11-10.57.42:859][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.11-10.57.42:859][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.11-10.57.42:859][  0]LogHAL: Display: Platform has ~ 32 GB [34267136000 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.11-10.57.42:859][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.11-10.57.42:859][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.11-10.57.42:859][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-10.57.42:859][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.11-10.57.42:860][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Engine.ini]
+[2021.03.11-10.57.42:861][  0]LogInit: Computer: HENRIPC
+[2021.03.11-10.57.42:861][  0]LogInit: User: Henri
+[2021.03.11-10.57.42:861][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.03.11-10.57.42:861][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.11-10.57.42:861][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.03.11-10.57.42:861][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.11-10.57.42:861][  0]LogMemory: Process Physical Memory: 140.09 MB used, 140.09 MB peak
+[2021.03.11-10.57.42:861][  0]LogMemory: Process Virtual Memory: 129.40 MB used, 129.40 MB peak
+[2021.03.11-10.57.42:861][  0]LogMemory: Physical Memory: 7377.52 MB used,  25302.17 MB free, 32679.69 MB total
+[2021.03.11-10.57.42:861][  0]LogMemory: Virtual Memory: 134190040.00 MB used,  27684.96 MB free, 134217728.00 MB total
+[2021.03.11-10.57.42:864][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.11-10.57.42:882][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.11-10.57.42:883][  0]LogInit: Using OS detected language (en-US).
+[2021.03.11-10.57.42:883][  0]LogInit: Using OS detected locale (en-US).
+[2021.03.11-10.57.42:884][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.11-10.57.43:020][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.11-10.57.43:028][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.11-10.57.43:043][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.11-10.57.43:043][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.11-10.57.43:219][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2021.03.11-10.57.43:219][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.11-10.57.43:219][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.11-10.57.43:219][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.11-10.57.43:248][  0]LogD3D11RHI:    0. 'AMD Radeon RX 5700 XT' (Feature Level 11_0)
+[2021.03.11-10.57.43:248][  0]LogD3D11RHI:       8152/0/16339 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2021.03.11-10.57.43:250][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.11-10.57.43:250][  0]LogD3D11RHI:       0/0/16339 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.11-10.57.43:250][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.11-10.57.43:256][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.11-10.57.43:256][  0]LogD3D11RHI:     GPU DeviceId: 0x731f (for the marketing name, search the web for "GPU Device Id")
+[2021.03.11-10.57.43:256][  0]LogWindows: EnumDisplayDevices:
+[2021.03.11-10.57.43:256][  0]LogWindows:    0. 'AMD Radeon RX 5700 XT' (P:1 D:1)
+[2021.03.11-10.57.43:257][  0]LogWindows:    1. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.03.11-10.57.43:257][  0]LogWindows:    2. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.03.11-10.57.43:257][  0]LogWindows:    3. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.03.11-10.57.43:257][  0]LogWindows:    4. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.03.11-10.57.43:258][  0]LogWindows:    5. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.03.11-10.57.43:258][  0]LogWindows:    6. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.03.11-10.57.43:258][  0]LogWindows:    7. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.03.11-10.57.43:258][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2021.03.11-10.57.43:258][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 5700 XT
+[2021.03.11-10.57.43:258][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 21.2.1 (internal:27.20.14533.1000, unified:27.20.14533.1000)
+[2021.03.11-10.57.43:258][  0]LogD3D11RHI:      Driver Date: 1-27-2021
+[2021.03.11-10.57.43:258][  0]LogRHI: Texture pool is 4850 MB (70% of 6929 MB)
+[2021.03.11-10.57.43:310][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.11-10.57.43:310][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.11-10.57.43:310][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.11-10.57.43:323][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2021.03.11-10.57.43:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.11-10.57.43:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.11-10.57.43:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.11-10.57.43:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.11-10.57.43:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.11-10.57.43:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.11-10.57.43:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.11-10.57.43:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.11-10.57.43:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.11-10.57.43:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.11-10.57.43:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.11-10.57.43:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.11-10.57.43:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.11-10.57.43:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.11-10.57.43:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.11-10.57.43:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.11-10.57.43:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.11-10.57.43:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.11-10.57.43:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.11-10.57.43:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.11-10.57.43:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.11-10.57.43:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.11-10.57.43:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.11-10.57.43:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.11-10.57.43:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.11-10.57.43:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.11-10.57.43:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.11-10.57.43:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.11-10.57.43:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.11-10.57.43:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.11-10.57.43:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.11-10.57.43:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.11-10.57.43:721][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.11-10.57.43:728][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.11-10.57.43:776][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.11-10.57.43:776][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Intermediate/Shaders/WorkingDirectory/12544/).
+[2021.03.11-10.57.43:776][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Henri/AppData/Local/Temp/UnrealShaderWorkingDir/921FDD074B192E7634A9F88DC3F8BE22/'.
+[2021.03.11-10.57.43:777][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.11-10.57.43:777][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.11-10.57.44:438][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.11-10.57.44:471][  0]LogDerivedDataCache: Loaded boot cache 0.03s 77MB C:/Users/Henri/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.11-10.57.44:471][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Henri/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.11-10.57.44:471][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.11-10.57.44:471][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.11-10.57.44:471][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.11-10.57.44:471][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.11-10.57.44:482][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.11-10.57.44:482][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.11-10.57.44:482][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.11-10.57.44:520][  0]LogDerivedDataCache: Speed tests for C:/Users/Henri/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2021.03.11-10.57.44:520][  0]LogDerivedDataCache: Display: Performance to C:/Users/Henri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1880.82MBs, RandomWriteSpeed=25.12MBs. Assigned SpeedClass 'Local'
+[2021.03.11-10.57.44:520][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Henri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.11-10.57.44:520][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.11-10.57.44:521][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.11-10.57.44:560][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.11-10.57.44:561][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.11-10.57.44:581][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.03.11-10.57.44:766][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.11-10.57.44:766][  0]LogInit: Active device profile: [0000020E6E2AA200][0000020E65EC83C0 49] Windows
+[2021.03.11-10.57.44:766][  0]LogInit: Profiles: [0000020E6E2AA200][0000020E65EC83C0 49] Windows, [0000020E6E23E300][0000020E6CE54540 49] WindowsNoEditor, [0000020E6E2A9500][0000020E6CE586C0 49] WindowsServer, [0000020E6E23EF00][0000020E6CE5C840 49] WindowsClient, [0000020E6E2A8A00][0000020E6CE609C0 49] IOS, [0000020E6E23E900][0000020E6CE64B40 49] iPadAir, [0000020E6E2A9300][0000020E6CE68CC0 49] iPadAir2, [0000020E6E1EA200][0000020E6CE70F80 49] IPadPro, [0000020E6E1EA300][0000020E6CE6CFC0 49] iPadAir3, [0000020E6E23D400][0000020E6CE75140 49] iPadAir4, [0000020E6E1EA600][0000020E6CE792C0 49] iPadMini2, [0000020E6E23C400][0000020E6CE7D440 49] iPadMini3, [0000020E6E1E9200][0000020E6CE51580 49] iPadMini4, [0000020E6E23E000][0000020E6CE816C0 49] iPadMini5, [0000020E6E21DB00][0000020E6CE89900 49] iPhone6, [0000020E6E21DC00][0000020E6CE85940 49] iPodTouch6, [0000020E6E1EA000][0000020E6CE95C00 49] iPhone7, [0000020E6E1E9E00][0000020E6CE91C40 49] iPodTouch7, [0000020E6E21F400][0000020E6CE98100 49] iPhone5S, [0000020E6E1EB400][0000020E6CE9C280 49] iPhone6Plus, [0000020E6E21D400][0000020E6CEA0400 49] iPhone6S, [0000020E6E1E8100][0000020E6CEA4580 49] iPhone6SPlus, [0000020E6E21C300][0000020E6CEA8700 49] iPhone7Plus, [0000020E6E1E8400][0000020E6CEAC880 49] iPhoneSE, [0000020E6E21E700][0000020E6CEB0A00 49] iPhone8, [0000020E6E1EBC00][0000020E6CEB4B80 49] iPhone8Plus, [0000020E6E21D900][0000020E6CEB8D00 49] iPhoneX, [0000020E6E1EA100][0000020E6CEBCE80 49] iPhoneXS, [0000020E6E21F700][0000020E6CEC1000 49] iPhoneXSMax, [0000020E6E1E9900][0000020E6CEC5180 49] iPhoneXR, [0000020E6E21FC00][0000020E6CEC9300 49] iPhone11, [0000020E6E1E8A00][0000020E6CECD480 49] iPhone11Pro, [0000020E6E21E800][0000020E6CED1600 49] iPhone11ProMax, [0000020E6E1EAE00][0000020E6CE8D740 49] iPhoneSE2, [0000020E6E21C500][0000020E6CED5880 49] iPhone12Mini, [0000020E6E1EA400][0000020E6CED99C0 49] iPhone12, [0000020E6E21DD00][0000020E6D813B40 49] iPhone12Pro, [0000020E6E1E9500][0000020E6D817CC0 49] iPhone12ProMax, [0000020E6E21E500][0000020E6D81A180 49] iPadPro105, [0000020E6E2A9100][0000020E6D81E300 49] iPadPro129, [0000020E6E21D700][0000020E6D822480 49] iPadPro97, [0000020E6E2AAD00][0000020E6D826600 49] iPadPro2_129, [0000020E6E21EF00][0000020E6D82A780 49] iPad5, [0000020E6E2AAF00][0000020E6D82E900 49] iPad6, [0000020E6E21C800][0000020E6D832A80 49] iPad7, [0000020E6E2A9F00][0000020E6D836C00 49] iPad8, [0000020E6E21E000][0000020E6D83AD80 49] iPadPro11, [0000020E6E2AA700][0000020E6D83EF00 49] iPadPro2_11, [0000020E6E21F900][0000020E6D843080 49] iPadPro3_129, [0000020E6E2A9900][0000020E6D847200 49] iPadPro4_129, [0000020E6E21FA00][0000020E6D84B380 49] AppleTV, [0000020E6E2A8F00][0000020E6D84F500 49] AppleTV4K, [0000020E6E21EB00][0000020E6D853680 49] TVOS, [0000020E6E2A8800][0000020E6CEDD7C0 49] Mac, [0000020E6E21E200][0000020E6D857900 49] MacClient, [0000020E6E2AAB00][0000020E6D85BA40 49] MacNoEditor, [0000020E6E21EE00][0000020E6D85FB80 49] MacServer, [0000020E6E2AA900][0000020E6D867D00 49] Linux, [0000020E6E21EC00][0000020E6D86A1C0 49] LinuxNoEditor, [0000020E6E2AA600][0000020E6D86E340 49] LinuxAArch64NoEditor, [0000020E6E21DE00][0000020E6D8724C0 49] LinuxClient, [0000020E6E2A8900][0000020E6D876640 49] LinuxAArch64Client, [0000020E6E21D100][0000020E6D87A7C0 49] LinuxServer, [0000020E6E2A9200][0000020E6D87E940 49] LinuxAArch64Server, [0000020E6E21D200][0000020E6D882AC0 49] Android, [0000020E6E2AA500][0000020E6D886C40 49] Android_Low, [0000020E6E21F100][0000020E6D88ADC0 49] Android_Mid, [0000020E6E2A8C00][0000020E6D88EF40 49] Android_High, [0000020E6E21C200][0000020E6D8930C0 49] Android_Default, [0000020E6E2A9400][0000020E6D897240 49] Android_Adreno4xx, [0000020E6E21CA00][0000020E6D89B3C0 49] Android_Adreno5xx_Low, [0000020E6E2AA000][0000020E6D89F540 49] Android_Adreno5xx, [0000020E6E21E600][0000020E6D8A36C0 49] Android_Adreno6xx, [0000020E6E2A8500][0000020E6D863800 49] Android_Adreno6xx_Vulkan, [0000020E6E21ED00][0000020E6D8A7940 49] Android_Mali_T6xx, [0000020E6E2AAC00][0000020E6D8ABA80 49] Android_Mali_T7xx, [0000020E6E21FE00][0000020E6D8AFBC0 49] Android_Mali_T8xx, [0000020E6E2AAA00][0000020E6D8B7D40 49] Android_Mali_G71, [0000020E6E21C900][0000020E6D8BA200 49] Android_Mali_G72, [0000020E6E2A9800][0000020E6D8BE380 49] Android_Mali_G72_Vulkan, [0000020E6E23FE00][0000020E6D8C2500 49] Android_Mali_G76, [0000020E6E1E9F00][0000020E6D8C6680 49] Android_Mali_G76_Vulkan, [0000020E6E23D800][0000020E6D8CA800 49] Android_Mali_G77, [0000020E6E1EAC00][0000020E6D8CE980 49] Android_Mali_G77_Vulkan, [0000020E6E23C300][0000020E6D8D2B00 49] Android_Vulkan_SM5, [0000020E6E1E8500][0000020E6D8D6C80 49] Android_PowerVR_G6xxx, [0000020E6E23FC00][0000020E6D8DAE00 49] Android_PowerVR_GT7xxx, [0000020E6E1E8D00][0000020E6D8DEF80 49] Android_PowerVR_GE8xxx, [0000020E6E23C900][0000020E6D8E3100 49] Android_PowerVR_GM9xxx, [0000020E6E1EBE00][0000020E6D8E7280 49] Android_PowerVR_GM9xxx_Vulkan, [0000020E6E23D600][0000020E6D8EB400 49] Android_TegraK1, [0000020E6E1EB100][0000020E6D901580 49] Android_Unknown_Vulkan, [0000020E6E23E600][0000020E6D905700 49] Lumin, [0000020E6E1EAA00][0000020E6D909880 49] Lumin_Desktop, [0000020E6E23D300][0000020E6D8B39C0 49] HoloLens, 
+[2021.03.11-10.57.44:852][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.11-10.57.44:852][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.11-10.57.44:852][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.11-10.57.44:852][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.11-10.57.44:852][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.11-10.57.44:867][  0]LogNetVersion: KitFisto 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1291201777)
+[2021.03.11-10.57.45:202][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.11-10.57.45:260][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.057342 seconds
+[2021.03.11-10.57.45:264][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.03.11-10.57.45:264][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.03.11-10.57.45:264][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.11-10.57.45:550][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.11-10.57.45:557][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.11-10.57.45:649][  0]SourceControl: Source control is disabled
+[2021.03.11-10.57.45:649][  0]SourceControl: Source control is disabled
+[2021.03.11-10.57.45:687][  0]SourceControl: Source control is disabled
+[2021.03.11-10.57.45:690][  0]SourceControl: Source control is disabled
+[2021.03.11-10.57.45:695][  0]LogUProjectInfo: Found projects:
+[2021.03.11-10.57.45:704][  0]SourceControl: Source control is disabled
+[2021.03.11-10.57.45:737][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.11-10.57.45:754][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.11-10.57.45:754][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.11-10.57.45:880][  0]LogCollectionManager: Loaded 0 collections in 0.000639 seconds
+[2021.03.11-10.57.45:897][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Collections/' took 0.00s
+[2021.03.11-10.57.45:897][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Content/Developers/Henri/Collections/' took 0.00s
+[2021.03.11-10.57.45:897][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Content/Collections/' took 0.00s
+[2021.03.11-10.57.45:897][  0]LogOcInput: OculusInput pre-init called
+[2021.03.11-10.57.45:905][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.11-10.57.45:905][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.11-10.57.45:950][  0]LogEngine: Initializing Engine...
+[2021.03.11-10.57.45:995][  0]LogHMD: Failed to initialize OpenVR with code 119
+[2021.03.11-10.57.46:003][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.11-10.57.46:004][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.11-10.57.46:082][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.11-10.57.46:089][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.11-10.57.46:098][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.11-10.57.46:101][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.11-10.57.46:101][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.11-10.57.46:101][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.11-10.57.46:101][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.11-10.57.46:101][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.11-10.57.46:101][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.11-10.57.46:101][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.11-10.57.46:101][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.11-10.57.46:101][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.11-10.57.46:101][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.11-10.57.46:102][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.11-10.57.46:102][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.11-10.57.46:113][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.11-10.57.46:113][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.11-10.57.46:150][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 5 Chat)
+[2021.03.11-10.57.46:151][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.11-10.57.46:152][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.11-10.57.46:152][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.11-10.57.46:153][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.11-10.57.46:153][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.11-10.57.46:153][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.11-10.57.46:154][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.11-10.57.46:154][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.11-10.57.46:154][  0]LogInit: FAudioDevice initialized.
+[2021.03.11-10.57.46:154][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.11-10.57.46:154][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.11-10.57.46:192][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/Henri/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.11-10.57.46:197][  0]LogInit: Texture streaming: Enabled
+[2021.03.11-10.57.46:207][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.11-10.57.46:210][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.11-10.57.46:210][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.11-10.57.46:211][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.11-10.57.46:244][  0]LogInit: Transaction tracking system initialized
+[2021.03.11-10.57.46:261][  0]BlueprintLog: New page: Editor Load
+[2021.03.11-10.57.46:315][  0]LocalizationService: Localization service is disabled
+[2021.03.11-10.57.46:334][  0]TimingProfiler: Initialize
+[2021.03.11-10.57.46:334][  0]TimingProfiler: OnSessionChanged
+[2021.03.11-10.57.46:335][  0]LoadingProfiler: Initialize
+[2021.03.11-10.57.46:335][  0]LoadingProfiler: OnSessionChanged
+[2021.03.11-10.57.46:335][  0]NetworkingProfiler: Initialize
+[2021.03.11-10.57.46:335][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.11-10.57.46:335][  0]MemoryProfiler: Initialize
+[2021.03.11-10.57.46:335][  0]MemoryProfiler: OnSessionChanged
+[2021.03.11-10.57.46:487][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.11-10.57.46:487][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.11-10.57.46:617][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Content/' took 0.01s
+[2021.03.11-10.57.46:739][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.11-10.57.46:741][  0]SourceControl: Source control is disabled
+[2021.03.11-10.57.46:741][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.861
+[2021.03.11-10.57.46:741][  0]Cmd: MAP LOAD FILE="C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.11-10.57.46:746][  0]LightingResults: New page: Lighting Build
+[2021.03.11-10.57.46:747][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-10.57.46:747][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-10.57.46:747][  0]MapCheck: New page: Map Check
+[2021.03.11-10.57.46:747][  0]LightingResults: New page: Lighting Build
+[2021.03.11-10.57.46:751][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.11-10.57.48:013][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.03.11-10.57.48:566][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.03.11-10.57.48:566][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.11-10.57.48:730][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.11-10.57.48:748][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.03.11-10.57.48:749][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.11-10.57.48:749][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2021.03.11-10.57.48:749][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.008
+[2021.03.11-10.57.48:750][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.870
+[2021.03.11-10.57.49:210][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-10.57.49:217][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-10.57.49:222][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-10.57.49:226][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-10.57.49:352][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0085 seconds. Added 3601 classes and 859 folders.
+[2021.03.11-10.57.49:422][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.11-10.57.49:557][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.11-10.57.49:557][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:557][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.11-10.57.49:557][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.03.11-10.57.49:565][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.11-10.57.49:565][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:565][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.11-10.57.49:565][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.03.11-10.57.49:583][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.11-10.57.49:583][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:583][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.11-10.57.49:583][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.03.11-10.57.49:601][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.11-10.57.49:601][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:601][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.11-10.57.49:601][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.03.11-10.57.49:606][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.11-10.57.49:606][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:606][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.11-10.57.49:606][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.03.11-10.57.49:616][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.11-10.57.49:616][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:616][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.11-10.57.49:616][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.03.11-10.57.49:639][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.11-10.57.49:639][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:639][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.11-10.57.49:639][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.03.11-10.57.49:679][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.11-10.57.49:680][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:680][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.11-10.57.49:680][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.03.11-10.57.49:686][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.11-10.57.49:686][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:686][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.11-10.57.49:686][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.03.11-10.57.49:706][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.11-10.57.49:706][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:706][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.11-10.57.49:706][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.03.11-10.57.49:720][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.11-10.57.49:720][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:720][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.11-10.57.49:720][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.03.11-10.57.49:725][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.11-10.57.49:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.11-10.57.49:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.03.11-10.57.49:744][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.11-10.57.49:744][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:744][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.11-10.57.49:744][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.03.11-10.57.49:761][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.11-10.57.49:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.11-10.57.49:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.03.11-10.57.49:765][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.11-10.57.49:765][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:765][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.11-10.57.49:765][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.03.11-10.57.49:769][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.11-10.57.49:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.11-10.57.49:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.03.11-10.57.49:799][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.11-10.57.49:799][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.11-10.57.49:799][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.03.11-10.57.49:816][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.11-10.57.49:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.11-10.57.49:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.03.11-10.57.49:820][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.11-10.57.49:820][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:820][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.11-10.57.49:820][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.03.11-10.57.49:840][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.11-10.57.49:840][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:840][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.11-10.57.49:840][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.03.11-10.57.49:844][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.11-10.57.49:844][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:844][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.11-10.57.49:844][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.03.11-10.57.49:872][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.11-10.57.49:872][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:872][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.11-10.57.49:872][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.03.11-10.57.49:881][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.11-10.57.49:881][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:881][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.11-10.57.49:881][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.03.11-10.57.49:886][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.11-10.57.49:886][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:886][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.11-10.57.49:886][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.03.11-10.57.49:906][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.11-10.57.49:906][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:906][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.11-10.57.49:906][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.03.11-10.57.49:921][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.11-10.57.49:921][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-10.57.49:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.11-10.57.49:921][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.03.11-10.57.50:645][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.11-10.57.50:661][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2021.03.11-10.57.51:278][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.11-10.57.51:279][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.11-10.57.51:323][  0]LogSlate: Took 0.015729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.11-10.57.51:683][  0]LogRenderer: Reallocating scene render targets to support 1572x808 Format 10 NumSamples 1 (Frame:1).
+[2021.03.11-10.57.52:166][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.11-10.57.52:166][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.03.11-10.57.52:166][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.03.11-10.57.52:166][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.03.11-10.57.52:166][  0]LogLoad: (Engine Initialization) Total time: 10.29 seconds
+[2021.03.11-10.57.52:166][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.11-10.57.52:166][  0]LogInit: First time updating LLM stats...
+[2021.03.11-10.57.52:221][  0]LogAssetRegistry: Asset discovery search completed in 7.6407 seconds
+[2021.03.11-10.57.52:222][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.03.11-10.57.52:269][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.11-10.57.56:913][487]LogSlate: Took 0.015228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.11-10.57.58:464][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.11-10.57.58:464][661]Cmd: MAP LOAD FILE="C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Content/KitFisto/KF_Maps/KF_Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.11-10.57.58:468][661]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.11-10.57.58:491][661]LightingResults: New page: Lighting Build
+[2021.03.11-10.57.58:491][661]LoadErrors: New page: Loading map: KF_Level1.umap
+[2021.03.11-10.57.58:492][661]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-10.57.58:492][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-10.57.58:492][661]MapCheck: New page: Map Check
+[2021.03.11-10.57.58:492][661]LightingResults: New page: Lighting Build
+[2021.03.11-10.57.58:494][661]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.11-10.57.58:497][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.03.11-10.58.01:039][661]LogAudio: Display: Audio Device (ID: 1) registered with world 'KF_Level1'.
+[2021.03.11-10.58.01:040][661]LogAIModule: Creating AISystem for world KF_Level1
+[2021.03.11-10.58.01:240][661]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.11-10.58.01:251][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.03.11-10.58.01:271][661]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.11-10.58.01:271][661]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.125ms to complete.
+[2021.03.11-10.58.01:271][661]LogFileHelpers: Loading map 'KF_Level1' took 2.807
+[2021.03.11-10.58.01:271][661]LogSlate: Window 'Open Level' being destroyed
+[2021.03.11-10.58.09:407][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack4)
+[2021.03.11-10.58.09:992][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack4)
+[2021.03.11-10.58.24:926][ 65]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.11-10.58.24:946][ 65]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.03.11-10.58.24:952][ 65]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.03.11-10.58.34:802][246]LogContentBrowser: Attempting asset rename: NewBlueprint -> FallingF
+[2021.03.11-10.58.34:813][246]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.03.11-10.58.36:306][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.11-10.58.37:448][404]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.11-10.58.37:508][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.11-10.58.43:224][  0]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.03.11-10.58.45:178][  0]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.11-10.58.45:182][  0]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.03.11-10.58.45:192][  0]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.03.11-10.59.03:326][174]LogContentBrowser: Attempting asset rename: NewBlueprint -> KF_FallingShelf
+[2021.03.11-10.59.03:329][174]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.03.11-10.59.05:628][415]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KitFisto/KF_Props/KF_FallingShelf.KF_FallingShelf
+[2021.03.11-10.59.06:503][415]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.03.11-10.59.35:965][ 92]LogSlate: Window 'KF_FallingShelf' being destroyed
+[2021.03.11-10.59.35:969][ 92]LogSlate: Window 'KF_FallingShelf' being destroyed
+[2021.03.11-10.59.35:996][ 92]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-10.59.35:996][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-10.59.43:973][ 10]LogEditor: Attempting to add actor of class 'PhysicsConstraintActor' to level at 20063.00,484.00,760.00
+[2021.03.11-10.59.46:129][258]LogEditor: Attempting to add actor of class 'PhysicsConstraintActor' to level at 19571.00,532.00,442.00
+[2021.03.11-10.59.51:603][880]LogEditor: Attempting to add actor of class 'PhysicsConstraintActor' to level at 19976.00,-579.00,664.00
+[2021.03.11-10.59.53:108][ 58]LogEditor: Attempting to add actor of class 'PhysicsConstraintActor' to level at 19577.00,600.00,445.00
+[2021.03.11-10.59.56:542][433]LogEditorViewport: Clicking on Actor (LMB): PhysicsConstraintActor (PhysicsConstraintActor1)
+[2021.03.11-11.00.07:132][667]LogSlate: Took 0.025549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.11-11.00.07:978][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack4)
+[2021.03.11-11.00.09:913][992]LogEditorViewport: Clicking on Actor (LMB): PhysicsConstraintActor (PhysicsConstraintActor1)
+[2021.03.11-11.00.19:933][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack01)
+[2021.03.11-11.00.23:202][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack4)
+[2021.03.11-11.00.29:328][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack4)
+[2021.03.11-11.00.30:672][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack01)
+[2021.03.11-11.00.33:632][758]LogEditorViewport: Clicking on Actor (LMB): PhysicsConstraintActor (PhysicsConstraintActor1)
+[2021.03.11-11.00.47:604][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack4)
+[2021.03.11-11.00.49:706][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack02)
+[2021.03.11-11.00.51:683][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack01)
+[2021.03.11-11.00.56:476][443]LogEditorViewport: Clicking on Actor (LMB): PhysicsConstraintActor (PhysicsConstraintActor1)
+[2021.03.11-11.01.08:493][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack4)
+[2021.03.11-11.01.17:933][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack4)
+[2021.03.11-11.01.41:292][602]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.11-11.01.41:324][602]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.03.11-11.01.41:324][602]LogPlayLevel: [PlayLevel] Compiling KF_FallingShelf before play...
+[2021.03.11-11.01.41:345][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.03.11-11.01.41:353][602]LogPlayLevel: PlayLevel: Blueprint regeneration took 29 ms (1 blueprints)
+[2021.03.11-11.01.41:360][602]PIE: New page: PIE session: KF_Level1 (Mar 11, 2021, 11:01:41 AM)
+[2021.03.11-11.01.41:372][602]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.11-11.01.41:386][602]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.11-11.01.41:386][602]LogPlayLevel: Creating play world package: /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.01.41:397][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011055s)
+[2021.03.11-11.01.41:398][602]LogAIModule: Creating AISystem for world KF_Level1
+[2021.03.11-11.01.41:398][602]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2021.03.11-11.01.41:398][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KitFisto/KF_Maps/KF_Level1.KF_Level1 to /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 (0.012090s)
+[2021.03.11-11.01.41:409][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.03.11-11.01.41:409][602]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.11-11.01.41:409][602]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.11-11.01.41:409][602]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.11-11.01.41:409][602]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.11-11.01.41:409][602]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.11-11.01.41:409][602]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.11-11.01.41:409][602]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.11-11.01.41:409][602]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.11-11.01.41:409][602]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.11-11.01.41:410][602]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.11-11.01.41:410][602]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.11-11.01.41:414][602]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.11-11.01.41:414][602]LogAudioMixer: Display: 1: FrontRight
+[2021.03.11-11.01.41:424][602]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 5 Chat)
+[2021.03.11-11.01.41:424][602]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.11-11.01.41:424][602]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.11-11.01.41:425][602]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.11-11.01.41:425][602]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.11-11.01.41:425][602]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.11-11.01.41:425][602]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.11-11.01.41:436][602]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.11-11.01.41:436][602]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.11-11.01.41:436][602]LogInit: FAudioDevice initialized.
+[2021.03.11-11.01.41:436][602]LogAudio: Display: Audio Device (ID: 2) registered with world 'KF_Level1'.
+[2021.03.11-11.01.41:447][602]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.11-11.01.41:467][602]LogWorld: Bringing World /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 up for play (max tick rate 0) at 2021.03.11-11.01.41
+[2021.03.11-11.01.41:467][602]LogWorld: Bringing up level for play took: 0.002554
+[2021.03.11-11.01.41:467][602]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.03.11-11.01.41:523][602]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.03.11-11.01.41:530][602]PIE: Server logged in
+[2021.03.11-11.01.41:543][602]PIE: Play in editor total start time 0.231 seconds.
+[2021.03.11-11.01.50:478][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.01.50:478][623]LogWorld: BeginTearingDown for /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.01.50:478][623]LogWorld: UWorld::CleanupWorld for KF_Level1, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-11.01.50:479][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.01.50:488][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.11-11.01.50:504][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.01.50:522][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.01.50:522][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.01.50:523][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.01.50:570][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.03.11-11.01.50:611][624]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.03.11-11.02.00:960][840]LogEditorViewport: Clicking on Actor (LMB): PhysicsConstraintActor (PhysicsConstraintActor1)
+[2021.03.11-11.02.16:711][545]LogActorFactory: Actor Factory created Cylinder
+[2021.03.11-11.02.17:409][618]LogActorFactory: Actor Factory created Cylinder
+[2021.03.11-11.02.43:499][532]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2021.03.11-11.02.44:355][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.03.11-11.02.56:350][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack4)
+[2021.03.11-11.03.02:629][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.03.11-11.03.05:380][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack4)
+[2021.03.11-11.03.11:113][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.03.11-11.03.11:502][654]LogEditorViewport: Clicking on Actor (LMB): PhysicsConstraintActor (PhysicsConstraintActor1)
+[2021.03.11-11.03.15:577][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.03.11-11.03.18:362][373]LogEditorViewport: Clicking on Actor (LMB): PhysicsConstraintActor (PhysicsConstraintActor1)
+[2021.03.11-11.03.24:464][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack01)
+[2021.03.11-11.03.25:043][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.03.11-11.03.25:490][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack4)
+[2021.03.11-11.03.27:917][350]LogEditorViewport: Clicking on Actor (LMB): PhysicsConstraintActor (PhysicsConstraintActor3)
+[2021.03.11-11.03.41:603][779]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.11-11.03.41:613][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.11-11.03.41:613][779]PIE: New page: PIE session: KF_Level1 (Mar 11, 2021, 11:03:41 AM)
+[2021.03.11-11.03.41:637][779]LogPlayLevel: Creating play world package: /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.03.41:648][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010670s)
+[2021.03.11-11.03.41:648][779]LogAIModule: Creating AISystem for world KF_Level1
+[2021.03.11-11.03.41:648][779]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2021.03.11-11.03.41:648][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KitFisto/KF_Maps/KF_Level1.KF_Level1 to /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 (0.011590s)
+[2021.03.11-11.03.41:684][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.03.11-11.03.41:690][779]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.03.11-11.03.41:690][779]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.11-11.03.41:690][779]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.11-11.03.41:690][779]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.11-11.03.41:690][779]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.11-11.03.41:690][779]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.11-11.03.41:690][779]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.11-11.03.41:690][779]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.11-11.03.41:690][779]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.11-11.03.41:690][779]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.11-11.03.41:690][779]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.11-11.03.41:695][779]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.11-11.03.41:695][779]LogAudioMixer: Display: 1: FrontRight
+[2021.03.11-11.03.41:703][779]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 5 Chat)
+[2021.03.11-11.03.41:704][779]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.11-11.03.41:704][779]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.11-11.03.41:704][779]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.11-11.03.41:704][779]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.11-11.03.41:704][779]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.11-11.03.41:704][779]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.11-11.03.41:715][779]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.11-11.03.41:715][779]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.11-11.03.41:715][779]LogInit: FAudioDevice initialized.
+[2021.03.11-11.03.41:715][779]LogAudio: Display: Audio Device (ID: 3) registered with world 'KF_Level1'.
+[2021.03.11-11.03.41:720][779]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.11-11.03.41:723][779]LogWorld: Bringing World /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 up for play (max tick rate 0) at 2021.03.11-11.03.41
+[2021.03.11-11.03.41:723][779]LogWorld: Bringing up level for play took: 0.002459
+[2021.03.11-11.03.41:723][779]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.03.11-11.03.41:726][779]PIE: Server logged in
+[2021.03.11-11.03.41:726][779]PIE: Play in editor total start time 0.114 seconds.
+[2021.03.11-11.03.47:028][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.03.47:028][410]LogWorld: BeginTearingDown for /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.03.47:028][410]LogWorld: UWorld::CleanupWorld for KF_Level1, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-11.03.47:029][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.03.47:035][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.11-11.03.47:050][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.03.47:058][410]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.11-11.03.47:058][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.03.47:059][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.03.47:070][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.03.47:073][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.03.11-11.03.47:112][411]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.03.11-11.04.32:327][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rack4)
+[2021.03.11-11.05.23:384][456]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.11-11.05.23:394][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.11-11.05.23:394][456]PIE: New page: PIE session: KF_Level1 (Mar 11, 2021, 11:05:23 AM)
+[2021.03.11-11.05.23:417][456]LogPlayLevel: Creating play world package: /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.05.23:428][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010839s)
+[2021.03.11-11.05.23:428][456]LogAIModule: Creating AISystem for world KF_Level1
+[2021.03.11-11.05.23:429][456]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2021.03.11-11.05.23:429][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KitFisto/KF_Maps/KF_Level1.KF_Level1 to /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 (0.011784s)
+[2021.03.11-11.05.23:438][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.03.11-11.05.23:445][456]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.03.11-11.05.23:445][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.11-11.05.23:445][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.11-11.05.23:445][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.11-11.05.23:445][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.11-11.05.23:445][456]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.11-11.05.23:445][456]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.11-11.05.23:445][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.11-11.05.23:445][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.11-11.05.23:445][456]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.11-11.05.23:445][456]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.11-11.05.23:449][456]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.11-11.05.23:450][456]LogAudioMixer: Display: 1: FrontRight
+[2021.03.11-11.05.23:458][456]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 5 Chat)
+[2021.03.11-11.05.23:458][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.11-11.05.23:458][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.11-11.05.23:458][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.11-11.05.23:459][456]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.11-11.05.23:459][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.11-11.05.23:459][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.11-11.05.23:469][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.11-11.05.23:469][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.11-11.05.23:469][456]LogInit: FAudioDevice initialized.
+[2021.03.11-11.05.23:469][456]LogAudio: Display: Audio Device (ID: 4) registered with world 'KF_Level1'.
+[2021.03.11-11.05.23:479][456]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.11-11.05.23:482][456]LogWorld: Bringing World /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 up for play (max tick rate 0) at 2021.03.11-11.05.23
+[2021.03.11-11.05.23:482][456]LogWorld: Bringing up level for play took: 0.002490
+[2021.03.11-11.05.23:482][456]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.03.11-11.05.23:484][456]PIE: Server logged in
+[2021.03.11-11.05.23:485][456]PIE: Play in editor total start time 0.092 seconds.
+[2021.03.11-11.05.45:507][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.05.45:507][ 88]LogWorld: BeginTearingDown for /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.05.45:508][ 88]LogWorld: UWorld::CleanupWorld for KF_Level1, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-11.05.45:508][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.05.45:517][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.11-11.05.45:531][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.05.45:540][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.05.45:540][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.05.45:541][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.05.45:555][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.03.11-11.05.45:594][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.03.11-11.05.50:724][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.03.11-11.05.53:141][954]LogEditorViewport: Clicking on Actor (LMB): PhysicsConstraintActor (PhysicsConstraintActor3)
+[2021.03.11-11.05.56:509][351]LogEditorViewport: Clicking on Actor (LMB): PhysicsConstraintActor (PhysicsConstraintActor1)
+[2021.03.11-11.05.59:287][674]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.11-11.05.59:297][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.11-11.05.59:298][674]PIE: New page: PIE session: KF_Level1 (Mar 11, 2021, 11:05:59 AM)
+[2021.03.11-11.05.59:327][674]LogPlayLevel: Creating play world package: /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.05.59:338][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010644s)
+[2021.03.11-11.05.59:338][674]LogAIModule: Creating AISystem for world KF_Level1
+[2021.03.11-11.05.59:338][674]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2021.03.11-11.05.59:338][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KitFisto/KF_Maps/KF_Level1.KF_Level1 to /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 (0.011563s)
+[2021.03.11-11.05.59:348][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.03.11-11.05.59:352][674]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.03.11-11.05.59:352][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.11-11.05.59:352][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.11-11.05.59:352][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.11-11.05.59:352][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.11-11.05.59:352][674]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.11-11.05.59:352][674]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.11-11.05.59:352][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.11-11.05.59:352][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.11-11.05.59:353][674]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.11-11.05.59:353][674]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.11-11.05.59:357][674]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.11-11.05.59:357][674]LogAudioMixer: Display: 1: FrontRight
+[2021.03.11-11.05.59:366][674]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 5 Chat)
+[2021.03.11-11.05.59:366][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.11-11.05.59:366][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.11-11.05.59:366][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.11-11.05.59:366][674]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.11-11.05.59:366][674]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.11-11.05.59:366][674]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.11-11.05.59:377][674]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.11-11.05.59:377][674]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.11-11.05.59:377][674]LogInit: FAudioDevice initialized.
+[2021.03.11-11.05.59:377][674]LogAudio: Display: Audio Device (ID: 5) registered with world 'KF_Level1'.
+[2021.03.11-11.05.59:384][674]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.11-11.05.59:386][674]LogWorld: Bringing World /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 up for play (max tick rate 0) at 2021.03.11-11.05.59
+[2021.03.11-11.05.59:387][674]LogWorld: Bringing up level for play took: 0.002525
+[2021.03.11-11.05.59:387][674]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.03.11-11.05.59:389][674]PIE: Server logged in
+[2021.03.11-11.05.59:390][674]PIE: Play in editor total start time 0.093 seconds.
+[2021.03.11-11.06.19:988][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.06.19:988][141]LogWorld: BeginTearingDown for /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.06.19:988][141]LogWorld: UWorld::CleanupWorld for KF_Level1, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-11.06.19:988][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.06.19:995][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.11-11.06.20:009][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.06.20:017][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.06.20:018][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.06.20:019][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.06.20:033][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.03.11-11.06.20:070][142]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.03.11-11.06.27:837][ 25]LogEditorViewport: Clicking on Actor (LMB): PhysicsConstraintActor (PhysicsConstraintActor3)
+[2021.03.11-11.06.29:387][200]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.11-11.06.29:397][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.11-11.06.29:397][200]PIE: New page: PIE session: KF_Level1 (Mar 11, 2021, 11:06:29 AM)
+[2021.03.11-11.06.29:427][200]LogPlayLevel: Creating play world package: /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.06.29:437][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010675s)
+[2021.03.11-11.06.29:438][200]LogAIModule: Creating AISystem for world KF_Level1
+[2021.03.11-11.06.29:438][200]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2021.03.11-11.06.29:438][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KitFisto/KF_Maps/KF_Level1.KF_Level1 to /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 (0.011590s)
+[2021.03.11-11.06.29:448][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.03.11-11.06.29:452][200]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.03.11-11.06.29:452][200]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.11-11.06.29:452][200]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.11-11.06.29:452][200]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.11-11.06.29:452][200]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.11-11.06.29:452][200]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.11-11.06.29:452][200]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.11-11.06.29:452][200]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.11-11.06.29:452][200]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.11-11.06.29:452][200]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.11-11.06.29:452][200]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.11-11.06.29:457][200]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.11-11.06.29:457][200]LogAudioMixer: Display: 1: FrontRight
+[2021.03.11-11.06.29:465][200]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 5 Chat)
+[2021.03.11-11.06.29:465][200]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.11-11.06.29:465][200]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.11-11.06.29:465][200]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.11-11.06.29:466][200]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.11-11.06.29:466][200]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.11-11.06.29:466][200]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.11-11.06.29:477][200]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.11-11.06.29:477][200]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.11-11.06.29:477][200]LogInit: FAudioDevice initialized.
+[2021.03.11-11.06.29:477][200]LogAudio: Display: Audio Device (ID: 6) registered with world 'KF_Level1'.
+[2021.03.11-11.06.29:482][200]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.11-11.06.29:484][200]LogWorld: Bringing World /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 up for play (max tick rate 0) at 2021.03.11-11.06.29
+[2021.03.11-11.06.29:484][200]LogWorld: Bringing up level for play took: 0.002488
+[2021.03.11-11.06.29:485][200]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.03.11-11.06.29:487][200]PIE: Server logged in
+[2021.03.11-11.06.29:488][200]PIE: Play in editor total start time 0.092 seconds.
+[2021.03.11-11.06.58:277][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.06.58:278][649]LogWorld: BeginTearingDown for /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.06.58:278][649]LogWorld: UWorld::CleanupWorld for KF_Level1, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-11.06.58:278][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.06.58:285][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.11-11.06.58:299][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.06.58:307][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.06.58:308][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.06.58:308][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.06.58:323][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.03.11-11.06.58:359][650]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.03.11-11.08.04:931][850]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.11-11.08.04:941][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.11-11.08.04:941][850]PIE: New page: PIE session: KF_Level1 (Mar 11, 2021, 11:08:04 AM)
+[2021.03.11-11.08.04:941][850]LogPlayLevel: Creating play world package: /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.08.04:952][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010659s)
+[2021.03.11-11.08.04:953][850]LogAIModule: Creating AISystem for world KF_Level1
+[2021.03.11-11.08.04:953][850]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2021.03.11-11.08.04:953][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KitFisto/KF_Maps/KF_Level1.KF_Level1 to /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 (0.011567s)
+[2021.03.11-11.08.04:962][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.03.11-11.08.04:968][850]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.03.11-11.08.04:968][850]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.11-11.08.04:968][850]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.11-11.08.04:968][850]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.11-11.08.04:968][850]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.11-11.08.04:968][850]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.11-11.08.04:968][850]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.11-11.08.04:968][850]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.11-11.08.04:968][850]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.11-11.08.04:968][850]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.11-11.08.04:968][850]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.11-11.08.04:973][850]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.11-11.08.04:973][850]LogAudioMixer: Display: 1: FrontRight
+[2021.03.11-11.08.04:981][850]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 5 Chat)
+[2021.03.11-11.08.04:982][850]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.11-11.08.04:982][850]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.11-11.08.04:982][850]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.11-11.08.04:982][850]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.11-11.08.04:982][850]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.11-11.08.04:982][850]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.11-11.08.04:993][850]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.11-11.08.04:993][850]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.11-11.08.04:993][850]LogInit: FAudioDevice initialized.
+[2021.03.11-11.08.04:993][850]LogAudio: Display: Audio Device (ID: 7) registered with world 'KF_Level1'.
+[2021.03.11-11.08.05:002][850]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.11-11.08.05:005][850]LogWorld: Bringing World /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 up for play (max tick rate 0) at 2021.03.11-11.08.05
+[2021.03.11-11.08.05:005][850]LogWorld: Bringing up level for play took: 0.002563
+[2021.03.11-11.08.05:005][850]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.03.11-11.08.05:008][850]PIE: Server logged in
+[2021.03.11-11.08.05:009][850]PIE: Play in editor total start time 0.068 seconds.
+[2021.03.11-11.08.34:328][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.08.34:328][360]LogWorld: BeginTearingDown for /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.08.34:328][360]LogWorld: UWorld::CleanupWorld for KF_Level1, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-11.08.34:329][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.08.34:334][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.11-11.08.34:348][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.08.34:357][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.08.34:357][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.08.34:358][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.08.34:372][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.03.11-11.08.34:412][361]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.03.11-11.08.39:780][964]LogEditorViewport: Clicking Background
+[2021.03.11-11.08.49:400][ 99]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.11-11.08.49:409][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.11-11.08.49:409][ 99]PIE: New page: PIE session: KF_Level1 (Mar 11, 2021, 11:08:49 AM)
+[2021.03.11-11.08.49:436][ 99]LogPlayLevel: Creating play world package: /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.08.49:447][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010863s)
+[2021.03.11-11.08.49:448][ 99]LogAIModule: Creating AISystem for world KF_Level1
+[2021.03.11-11.08.49:448][ 99]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2021.03.11-11.08.49:448][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KitFisto/KF_Maps/KF_Level1.KF_Level1 to /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 (0.011869s)
+[2021.03.11-11.08.49:458][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.03.11-11.08.49:463][ 99]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.03.11-11.08.49:463][ 99]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.11-11.08.49:463][ 99]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.11-11.08.49:463][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.11-11.08.49:463][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.11-11.08.49:463][ 99]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.11-11.08.49:463][ 99]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.11-11.08.49:463][ 99]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.11-11.08.49:463][ 99]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.11-11.08.49:464][ 99]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.11-11.08.49:464][ 99]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.11-11.08.49:468][ 99]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.11-11.08.49:468][ 99]LogAudioMixer: Display: 1: FrontRight
+[2021.03.11-11.08.49:477][ 99]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 5 Chat)
+[2021.03.11-11.08.49:477][ 99]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.11-11.08.49:477][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.11-11.08.49:477][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.11-11.08.49:477][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.11-11.08.49:477][ 99]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.11-11.08.49:477][ 99]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.11-11.08.49:487][ 99]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.11-11.08.49:487][ 99]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.11-11.08.49:488][ 99]LogInit: FAudioDevice initialized.
+[2021.03.11-11.08.49:488][ 99]LogAudio: Display: Audio Device (ID: 8) registered with world 'KF_Level1'.
+[2021.03.11-11.08.49:497][ 99]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.11-11.08.49:500][ 99]LogWorld: Bringing World /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 up for play (max tick rate 0) at 2021.03.11-11.08.49
+[2021.03.11-11.08.49:500][ 99]LogWorld: Bringing up level for play took: 0.002479
+[2021.03.11-11.08.49:500][ 99]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.03.11-11.08.49:503][ 99]PIE: Server logged in
+[2021.03.11-11.08.49:503][ 99]PIE: Play in editor total start time 0.095 seconds.
+[2021.03.11-11.09.17:477][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.09.17:477][449]LogWorld: BeginTearingDown for /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.09.17:477][449]LogWorld: UWorld::CleanupWorld for KF_Level1, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-11.09.17:478][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.09.17:483][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.11-11.09.17:491][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.09.17:499][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.09.17:499][449]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.09.17:500][449]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.09.17:514][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.03.11-11.09.17:548][450]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.03.11-11.09.24:853][259]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.11-11.09.24:863][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.11-11.09.24:863][259]PIE: New page: PIE session: KF_Level1 (Mar 11, 2021, 11:09:24 AM)
+[2021.03.11-11.09.24:896][259]LogPlayLevel: Creating play world package: /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.09.24:907][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010569s)
+[2021.03.11-11.09.24:908][259]LogAIModule: Creating AISystem for world KF_Level1
+[2021.03.11-11.09.24:908][259]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2021.03.11-11.09.24:908][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KitFisto/KF_Maps/KF_Level1.KF_Level1 to /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 (0.011485s)
+[2021.03.11-11.09.24:918][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.03.11-11.09.24:921][259]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.03.11-11.09.24:921][259]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.11-11.09.24:921][259]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.11-11.09.24:921][259]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.11-11.09.24:921][259]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.11-11.09.24:921][259]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.11-11.09.24:921][259]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.11-11.09.24:921][259]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.11-11.09.24:921][259]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.11-11.09.24:922][259]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.11-11.09.24:922][259]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.11-11.09.24:926][259]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.11-11.09.24:926][259]LogAudioMixer: Display: 1: FrontRight
+[2021.03.11-11.09.24:935][259]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 5 Chat)
+[2021.03.11-11.09.24:935][259]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.11-11.09.24:935][259]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.11-11.09.24:935][259]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.11-11.09.24:935][259]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.11-11.09.24:935][259]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.11-11.09.24:935][259]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.11-11.09.24:946][259]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.11-11.09.24:946][259]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.11-11.09.24:946][259]LogInit: FAudioDevice initialized.
+[2021.03.11-11.09.24:946][259]LogAudio: Display: Audio Device (ID: 9) registered with world 'KF_Level1'.
+[2021.03.11-11.09.24:957][259]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.11-11.09.24:960][259]LogWorld: Bringing World /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 up for play (max tick rate 0) at 2021.03.11-11.09.24
+[2021.03.11-11.09.24:960][259]LogWorld: Bringing up level for play took: 0.002595
+[2021.03.11-11.09.24:960][259]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.03.11-11.09.24:963][259]PIE: Server logged in
+[2021.03.11-11.09.24:963][259]PIE: Play in editor total start time 0.101 seconds.
+[2021.03.11-11.09.50:287][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.09.50:287][293]LogWorld: BeginTearingDown for /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.09.50:288][293]LogWorld: UWorld::CleanupWorld for KF_Level1, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-11.09.50:288][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.09.50:294][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.11-11.09.50:302][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.09.50:310][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.09.50:311][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.09.50:312][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.09.50:326][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.03.11-11.09.50:360][294]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.03.11-11.09.54:270][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.03.11-11.10.13:224][476]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.11-11.10.13:234][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.11-11.10.13:234][476]PIE: New page: PIE session: KF_Level1 (Mar 11, 2021, 11:10:13 AM)
+[2021.03.11-11.10.13:256][476]LogPlayLevel: Creating play world package: /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.10.13:267][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010899s)
+[2021.03.11-11.10.13:268][476]LogAIModule: Creating AISystem for world KF_Level1
+[2021.03.11-11.10.13:268][476]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2021.03.11-11.10.13:268][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KitFisto/KF_Maps/KF_Level1.KF_Level1 to /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 (0.011831s)
+[2021.03.11-11.10.13:277][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.03.11-11.10.13:283][476]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.03.11-11.10.13:283][476]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.11-11.10.13:283][476]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.11-11.10.13:283][476]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.11-11.10.13:283][476]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.11-11.10.13:283][476]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.11-11.10.13:283][476]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.11-11.10.13:283][476]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.11-11.10.13:283][476]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.11-11.10.13:283][476]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.11-11.10.13:283][476]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.11-11.10.13:288][476]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.11-11.10.13:288][476]LogAudioMixer: Display: 1: FrontRight
+[2021.03.11-11.10.13:296][476]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 5 Chat)
+[2021.03.11-11.10.13:296][476]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.11-11.10.13:297][476]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.11-11.10.13:297][476]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.11-11.10.13:297][476]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.11-11.10.13:297][476]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.11-11.10.13:297][476]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.11-11.10.13:307][476]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.11-11.10.13:307][476]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.11-11.10.13:307][476]LogInit: FAudioDevice initialized.
+[2021.03.11-11.10.13:307][476]LogAudio: Display: Audio Device (ID: 10) registered with world 'KF_Level1'.
+[2021.03.11-11.10.13:313][476]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.11-11.10.13:316][476]LogWorld: Bringing World /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 up for play (max tick rate 0) at 2021.03.11-11.10.13
+[2021.03.11-11.10.13:317][476]LogWorld: Bringing up level for play took: 0.002895
+[2021.03.11-11.10.13:317][476]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.03.11-11.10.13:320][476]PIE: Server logged in
+[2021.03.11-11.10.13:320][476]PIE: Play in editor total start time 0.087 seconds.
+[2021.03.11-11.10.34:817][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.10.34:817][ 48]LogWorld: BeginTearingDown for /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.10.34:817][ 48]LogWorld: UWorld::CleanupWorld for KF_Level1, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-11.10.34:817][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.10.34:825][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.11-11.10.34:840][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.10.34:848][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.10.34:848][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.10.34:849][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.10.34:863][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.03.11-11.10.34:906][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.03.11-11.11.58:082][ 11]Cmd: SELECT NONE
+[2021.03.11-11.12.23:526][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.03.11-11.12.23:615][212]LogSavePackage: Moving 'C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/KF_Level1_Auto187E985B2464B40E60523A680B5DAB36A.tmp' to 'C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Autosaves/Game/KitFisto/KF_Maps/KF_Level1_Auto1.umap'
+[2021.03.11-11.12.23:623][212]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/KitFisto/KF_Maps/KF_Level1' took 0.107
+[2021.03.11-11.12.23:623][212]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.107
+[2021.03.11-11.20.44:111][810]LogActorFactory: Actor Factory created Cube
+[2021.03.11-11.20.44:821][894]LogActorFactory: Actor Factory created Cube
+[2021.03.11-11.20.44:891][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.03.11-11.21.00:237][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.03.11-11.21.33:516][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.11-11.21.33:526][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.11-11.21.33:526][ 70]PIE: New page: PIE session: KF_Level1 (Mar 11, 2021, 11:21:33 AM)
+[2021.03.11-11.21.33:554][ 70]LogPlayLevel: Creating play world package: /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.21.33:565][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010911s)
+[2021.03.11-11.21.33:565][ 70]LogAIModule: Creating AISystem for world KF_Level1
+[2021.03.11-11.21.33:566][ 70]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2021.03.11-11.21.33:566][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KitFisto/KF_Maps/KF_Level1.KF_Level1 to /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 (0.011900s)
+[2021.03.11-11.21.33:576][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.03.11-11.21.33:582][ 70]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.03.11-11.21.33:582][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.11-11.21.33:582][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.11-11.21.33:582][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.11-11.21.33:582][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.11-11.21.33:582][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.11-11.21.33:582][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.11-11.21.33:582][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.11-11.21.33:582][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.11-11.21.33:582][ 70]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.11-11.21.33:582][ 70]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.11-11.21.33:587][ 70]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.11-11.21.33:587][ 70]LogAudioMixer: Display: 1: FrontRight
+[2021.03.11-11.21.33:595][ 70]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 5 Chat)
+[2021.03.11-11.21.33:596][ 70]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.11-11.21.33:596][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.11-11.21.33:596][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.11-11.21.33:596][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.11-11.21.33:596][ 70]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.11-11.21.33:596][ 70]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.11-11.21.33:607][ 70]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.11-11.21.33:607][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.11-11.21.33:607][ 70]LogInit: FAudioDevice initialized.
+[2021.03.11-11.21.33:607][ 70]LogAudio: Display: Audio Device (ID: 11) registered with world 'KF_Level1'.
+[2021.03.11-11.21.33:612][ 70]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.11-11.21.33:615][ 70]LogWorld: Bringing World /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 up for play (max tick rate 0) at 2021.03.11-11.21.33
+[2021.03.11-11.21.33:615][ 70]LogWorld: Bringing up level for play took: 0.002578
+[2021.03.11-11.21.33:615][ 70]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.03.11-11.21.33:617][ 70]PIE: Server logged in
+[2021.03.11-11.21.33:618][ 70]PIE: Play in editor total start time 0.092 seconds.
+[2021.03.11-11.21.44:665][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.21.44:665][388]LogWorld: BeginTearingDown for /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.21.44:665][388]LogWorld: UWorld::CleanupWorld for KF_Level1, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-11.21.44:666][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.21.44:674][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.11-11.21.44:688][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.21.44:696][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.21.44:696][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.21.44:697][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.21.44:711][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.03.11-11.21.44:752][389]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.03.11-11.21.46:234][555]Cmd: DELETE
+[2021.03.11-11.21.46:234][555]Cmd: ACTOR DELETE
+[2021.03.11-11.21.46:272][555]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.11-11.21.46:281][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.03.11-11.21.46:283][555]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.03.11-11.22.08:485][206]Cmd: SELECT NONE
+[2021.03.11-11.22.10:458][419]Cmd: SELECT NONE
+[2021.03.11-11.22.12:295][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConstructionPylons_01b)
+[2021.03.11-11.22.14:873][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConstructionPylons_01b2)
+[2021.03.11-11.22.16:652][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConstructionPylons_01a)
+[2021.03.11-11.22.18:589][264]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.11-11.22.18:599][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.11-11.22.18:599][264]PIE: New page: PIE session: KF_Level1 (Mar 11, 2021, 11:22:18 AM)
+[2021.03.11-11.22.18:624][264]LogPlayLevel: Creating play world package: /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.22.18:635][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010716s)
+[2021.03.11-11.22.18:635][264]LogAIModule: Creating AISystem for world KF_Level1
+[2021.03.11-11.22.18:636][264]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2021.03.11-11.22.18:636][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KitFisto/KF_Maps/KF_Level1.KF_Level1 to /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 (0.011647s)
+[2021.03.11-11.22.18:645][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.03.11-11.22.18:650][264]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.03.11-11.22.18:650][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.11-11.22.18:650][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.11-11.22.18:650][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.11-11.22.18:650][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.11-11.22.18:650][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.11-11.22.18:650][264]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.11-11.22.18:650][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.11-11.22.18:650][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.11-11.22.18:650][264]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.11-11.22.18:650][264]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.11-11.22.18:654][264]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.11-11.22.18:654][264]LogAudioMixer: Display: 1: FrontRight
+[2021.03.11-11.22.18:663][264]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 5 Chat)
+[2021.03.11-11.22.18:663][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.11-11.22.18:663][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.11-11.22.18:663][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.11-11.22.18:663][264]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.11-11.22.18:664][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.11-11.22.18:664][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.11-11.22.18:674][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.11-11.22.18:674][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.11-11.22.18:674][264]LogInit: FAudioDevice initialized.
+[2021.03.11-11.22.18:674][264]LogAudio: Display: Audio Device (ID: 12) registered with world 'KF_Level1'.
+[2021.03.11-11.22.18:683][264]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.11-11.22.18:686][264]LogWorld: Bringing World /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1.KF_Level1 up for play (max tick rate 0) at 2021.03.11-11.22.18
+[2021.03.11-11.22.18:686][264]LogWorld: Bringing up level for play took: 0.002537
+[2021.03.11-11.22.18:686][264]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.03.11-11.22.18:689][264]PIE: Server logged in
+[2021.03.11-11.22.18:689][264]PIE: Play in editor total start time 0.091 seconds.
+[2021.03.11-11.22.34:824][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.22.34:825][195]LogWorld: BeginTearingDown for /Game/KitFisto/KF_Maps/UEDPIE_0_KF_Level1
+[2021.03.11-11.22.34:825][195]LogWorld: UWorld::CleanupWorld for KF_Level1, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-11.22.34:825][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.22.34:834][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.11-11.22.34:848][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-11.22.34:857][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-11.22.34:857][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.22.34:858][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.11-11.22.34:872][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.03.11-11.22.34:912][196]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.03.11-11.22.38:956][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConstructionPylons_01b2)
+[2021.03.11-11.22.41:065][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ConstructionPylons_01b)
+[2021.03.11-11.23.47:716][231]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/KitFisto/KF_Props/KF_LightHolder1.KF_LightHolder1
+[2021.03.11-11.23.55:673][732]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KitFisto/KF_Props/KF_LightHolder2.KF_LightHolder2
+[2021.03.11-11.23.56:087][732]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.11-11.24.10:670][ 93]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.03.11-11.24.17:368][ 93]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.11-11.24.17:372][ 93]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.03.11-11.24.17:384][ 93]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.03.11-11.24.25:190][865]LogContentBrowser: Attempting asset rename: NewBlueprint -> KF_LightHolderFLickering
+[2021.03.11-11.24.25:193][865]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.03.11-11.24.31:974][516]LogContentBrowser: Attempting asset rename: KF_LightHolderFLickering -> KF_LightHolderFlickering
+[2021.03.11-11.24.32:075][516]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.11-11.24.33:832][516]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.757 s
+[2021.03.11-11.24.33:832][516]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.11-11.24.33:832][516]LogOutputDevice: Error: 
+[2021.03.11-11.24.33:832][516]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2021.03.11-11.24.33:832][516]LogOutputDevice: Error: Found circular redirect from /Game/KitFisto/KF_Props/KF_LightHolderFlickering.KF_LightHolderFlickering_C to /Game/KitFisto/KF_Props/KF_LightHolderFlickering.KF_LightHolderFlickering_C! Returning None instead
+[2021.03.11-11.24.33:832][516]LogOutputDevice: Error: Stack: 
+[2021.03.11-11.24.33:832][516]LogOutputDevice: Error: [Callstack] 0x00007fff377c7093 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:832][516]LogOutputDevice: Error: [Callstack] 0x00007fff37372810 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:832][516]LogOutputDevice: Error: [Callstack] 0x00007fff376af236 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:832][516]LogOutputDevice: Error: [Callstack] 0x00007fff376c834e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff373a7cb7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff36855162 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff376bfcc3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff375be699 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff37515896 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff37673ec7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff37674444 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff375185e3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff3751609c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff375159ae UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff37673ec7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff37609175 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff37674444 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff375185e3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff3751609c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff37609504 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff37607af0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff3760755b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff046d5b20 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff046d5714 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff376567d2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff37678a5b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff3765dfec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff02c1276e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff02c1325e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff02c4e762 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff02c4b09c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff034ccc97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff02f49093 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff02f479ad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff02f70a50 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007ffef92de2c7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007ffef927ffca UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007ffef92f8c92 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007ffee793f233 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007ffee793f521 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007ffee793f5fb UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007ffef9e488a6 UE4Editor-ContentBrowserData.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007ffef9a1402e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007ffef9a58ebf UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007ffef9a78c3b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007ffef9a580e7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff35d05fb4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff35ceb857 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff35c94c98 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff35c737a7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff35cf3c66 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff35cf5078 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff35bef084 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff35a325b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff35a9e399 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff35a92236 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff4cc0b948 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff4cbf9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff4cc0e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff4cbf4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff86495c1d USER32.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff86495612 USER32.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff4cc0f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007ff763af8857 UE4Editor.exe!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007ff763b111ac UE4Editor.exe!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007ff763b1128a UE4Editor.exe!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007ff763b252ed UE4Editor.exe!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007ff763b2801a UE4Editor.exe!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff86b07c24 KERNEL32.DLL!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: [Callstack] 0x00007fff8840d721 ntdll.dll!UnknownFunction []
+[2021.03.11-11.24.33:833][516]LogOutputDevice: Error: 
