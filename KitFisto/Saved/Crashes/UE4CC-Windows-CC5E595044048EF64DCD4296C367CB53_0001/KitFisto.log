@@ -1,0 +1,1719 @@
+﻿Log file open, 05/07/21 18:14:45
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: KitFisto
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.218387
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogXGEController: Cleaning working directory: C:/Users/Henri/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3800X 8-Core Processor             , GPU: AMD Radeon RX 5700 XT
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=HenriPuennel -epicuserid=5e3a10abcd1f4a6fb4a6e246a1d4dd6c -epiclocale=en
+LogInit: Base Directory: E:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Engine.ini]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Engine.ini]
+[2021.05.07-16.14.45:608][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Engine.ini]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Engine.ini]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.07-16.14.45:608][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.07-16.14.45:609][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.07-16.14.45:609][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.07-16.14.45:609][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.07-16.14.45:609][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.07-16.14.45:609][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.07-16.14.45:609][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.07-16.14.45:609][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.07-16.14.45:609][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.07-16.14.45:609][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.07-16.14.45:609][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.07-16.14.45:609][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.07-16.14.45:609][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Engine.ini]
+[2021.05.07-16.14.45:609][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Engine.ini]
+[2021.05.07-16.14.45:628][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.07-16.14.45:628][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-16.14.45:628][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.07-16.14.45:629][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.07-16.14.45:629][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.07-16.14.45:629][  0]LogHAL: Display: Platform has ~ 32 GB [34271248384 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.07-16.14.45:629][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.07-16.14.45:629][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.05.07-16.14.45:629][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.07-16.14.45:630][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Config/Windows/Engine.ini]
+[2021.05.07-16.14.45:630][  0]LogInit: Computer: HENRIPC
+[2021.05.07-16.14.45:630][  0]LogInit: User: Henri
+[2021.05.07-16.14.45:630][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.05.07-16.14.45:630][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.07-16.14.45:630][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.05.07-16.14.45:631][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.07-16.14.45:631][  0]LogMemory: Process Physical Memory: 145.19 MB used, 145.20 MB peak
+[2021.05.07-16.14.45:631][  0]LogMemory: Process Virtual Memory: 122.00 MB used, 122.00 MB peak
+[2021.05.07-16.14.45:631][  0]LogMemory: Physical Memory: 8246.79 MB used,  24436.82 MB free, 32683.61 MB total
+[2021.05.07-16.14.45:631][  0]LogMemory: Virtual Memory: 134195608.00 MB used,  22121.30 MB free, 134217728.00 MB total
+[2021.05.07-16.14.45:635][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.07-16.14.45:658][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.07-16.14.45:660][  0]LogInit: Using OS detected language (en-US).
+[2021.05.07-16.14.45:660][  0]LogInit: Using OS detected locale (en-US).
+[2021.05.07-16.14.45:662][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.05.07-16.14.45:817][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.07-16.14.45:828][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.07-16.14.45:868][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.07-16.14.45:868][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.07-16.14.46:046][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.07-16.14.46:046][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.07-16.14.46:046][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.07-16.14.46:081][  0]LogD3D11RHI:    0. 'AMD Radeon RX 5700 XT' (Feature Level 11_0)
+[2021.05.07-16.14.46:081][  0]LogD3D11RHI:       8151/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2021.05.07-16.14.46:083][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.07-16.14.46:083][  0]LogD3D11RHI:       0/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.07-16.14.46:083][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.07-16.14.46:090][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.07-16.14.46:091][  0]LogD3D11RHI:     GPU DeviceId: 0x731f (for the marketing name, search the web for "GPU Device Id")
+[2021.05.07-16.14.46:091][  0]LogWindows: EnumDisplayDevices:
+[2021.05.07-16.14.46:091][  0]LogWindows:    0. 'AMD Radeon RX 5700 XT' (P:1 D:1)
+[2021.05.07-16.14.46:091][  0]LogWindows:    1. 'AMD Radeon RX 5700 XT' (P:0 D:1)
+[2021.05.07-16.14.46:091][  0]LogWindows:    2. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.05.07-16.14.46:091][  0]LogWindows:    3. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.05.07-16.14.46:092][  0]LogWindows:    4. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.05.07-16.14.46:092][  0]LogWindows:    5. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.05.07-16.14.46:092][  0]LogWindows:    6. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.05.07-16.14.46:092][  0]LogWindows:    7. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.05.07-16.14.46:093][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2021.05.07-16.14.46:093][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 5700 XT
+[2021.05.07-16.14.46:093][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 21.4.1 (internal:27.20.21002.112, unified:27.20.21002.112)
+[2021.05.07-16.14.46:093][  0]LogD3D11RHI:      Driver Date: 4-13-2021
+[2021.05.07-16.14.46:093][  0]LogRHI: Texture pool is 5168 MB (70% of 7383 MB)
+[2021.05.07-16.14.46:147][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.07-16.14.46:148][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.07-16.14.46:148][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.07-16.14.46:159][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2021.05.07-16.14.46:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.07-16.14.46:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.07-16.14.46:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.07-16.14.46:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.07-16.14.46:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.07-16.14.46:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.07-16.14.46:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.07-16.14.46:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.07-16.14.46:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.07-16.14.46:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.07-16.14.46:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.07-16.14.46:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.07-16.14.46:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.07-16.14.46:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.07-16.14.46:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.07-16.14.46:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.07-16.14.46:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.07-16.14.46:467][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.07-16.14.46:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.07-16.14.46:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.07-16.14.46:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.07-16.14.46:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.07-16.14.46:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.07-16.14.46:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.07-16.14.46:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.07-16.14.46:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.07-16.14.46:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.07-16.14.46:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.07-16.14.46:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.07-16.14.46:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.07-16.14.46:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.07-16.14.46:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.07-16.14.46:573][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.07-16.14.46:580][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.07-16.14.46:632][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.07-16.14.46:632][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Intermediate/Shaders/WorkingDirectory/684/).
+[2021.05.07-16.14.46:632][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Henri/AppData/Local/Temp/UnrealShaderWorkingDir/C7966D3C4FD6129610EB788844027837/'.
+[2021.05.07-16.14.46:632][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.07-16.14.46:632][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.07-16.14.47:225][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.07-16.14.47:268][  0]LogDerivedDataCache: Loaded boot cache 0.04s 81MB C:/Users/Henri/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.07-16.14.47:268][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Henri/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.07-16.14.47:268][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.07-16.14.47:268][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.07-16.14.47:268][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.07-16.14.47:268][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.07-16.14.47:279][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.07-16.14.47:279][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.07-16.14.47:279][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.07-16.14.47:286][  0]LogDerivedDataCache: Speed tests for C:/Users/Henri/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.07-16.14.47:286][  0]LogDerivedDataCache: Display: Performance to C:/Users/Henri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1721.64MBs, RandomWriteSpeed=167.24MBs. Assigned SpeedClass 'Local'
+[2021.05.07-16.14.47:287][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Henri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.07-16.14.47:287][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.07-16.14.47:287][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.07-16.14.47:329][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.07-16.14.47:330][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.07-16.14.47:350][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2021.05.07-16.14.47:553][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.07-16.14.47:553][  0]LogInit: Active device profile: [000002577C6D9B00][000002577B315380 49] Windows
+[2021.05.07-16.14.47:553][  0]LogInit: Profiles: [000002577C6D9B00][000002577B315380 49] Windows, [000002577C694D00][000002577B323500 49] WindowsNoEditor, [000002577C6D8C00][000002577B319640 49] WindowsServer, [000002577C696B00][000002577B327780 49] WindowsClient, [000002577C6DB700][000002577B32B8C0 49] IOS, [000002577C697700][000002577B32FA00 49] iPadAir, [000002577C6DAE00][000002577B337B80 49] iPadAir2, [000002577C64AD00][000002577B344180 49] IPadPro, [000002577C64AE00][000002577B33A1C0 49] iPadAir3, [000002577C6D9300][000002577B34E340 49] iPadAir4, [000002577C64A700][000002577B3524C0 49] iPadMini2, [000002577C6DB200][000002577B356640 49] iPadMini3, [000002577C649600][000002577B35A7C0 49] iPadMini4, [000002577C6D9100][000002577B35E940 49] iPadMini5, [000002577C676600][000002577B366C00 49] iPhone6, [000002577C676700][000002577B362C40 49] iPodTouch6, [000002577C64B500][000002577B36EF00 49] iPhone7, [000002577C64B600][000002577B36AF40 49] iPodTouch7, [000002577C677F00][000002577B3730C0 49] iPhone5S, [000002577C64A300][000002577B377240 49] iPhone6Plus, [000002577C675400][000002577B37B3C0 49] iPhone6S, [000002577C649100][000002577B37F540 49] iPhone6SPlus, [000002577C674300][000002577B333680 49] iPhone7Plus, [000002577C648B00][000002577B3837C0 49] iPhoneSE, [000002577C677200][000002577B387900 49] iPhone8, [000002577C649500][000002577B38BA40 49] iPhone8Plus, [000002577C675900][000002577B393BC0 49] iPhoneX, [000002577C64A100][000002577B397D40 49] iPhoneXS, [000002577C676300][000002577B39A200 49] iPhoneXSMax, [000002577C64BA00][000002577B39E380 49] iPhoneXR, [000002577C675E00][000002577B3A2500 49] iPhone11, [000002577C648C00][000002577B3A6680 49] iPhone11Pro, [000002577C677300][000002577B3AA800 49] iPhone11ProMax, [000002577C648100][000002577B3AE980 49] iPhoneSE2, [000002577C674500][000002577B3B2B00 49] iPhone12Mini, [000002577C649700][000002577B3B6C80 49] iPhone12, [000002577C676800][000002577B3BAE00 49] iPhone12Pro, [000002577C64BF00][000002577B3BEF80 49] iPhone12ProMax, [000002577C677000][000002577B3C3100 49] iPadPro105, [000002577C696200][000002577B3C7280 49] iPadPro129, [000002577C649F00][000002577B3CB400 49] iPadPro97, [000002577C694900][000002577B3CF580 49] iPadPro2_129, [000002577C64B200][000002577B3D3700 49] iPad5, [000002577C695F00][000002577B38F840 49] iPad6, [000002577C64A200][000002577B3D7980 49] iPad7, [000002577C697500][000002577B3DBAC0 49] iPad8, [000002577C649200][000002577D505C40 49] iPadPro11, [000002577C674F00][000002577D508100 49] iPadPro2_11, [000002577C696000][000002577D50C280 49] iPadPro3_129, [000002577C677C00][000002577D510400 49] iPadPro4_129, [000002577C695800][000002577D514580 49] AppleTV, [000002577C676000][000002577D518700 49] AppleTV4K, [000002577C694300][000002577D51C880 49] TVOS, [000002577C648900][000002577D520A00 49] Mac, [000002577C696A00][000002577D524B80 49] MacClient, [000002577C64A000][000002577D528D00 49] MacNoEditor, [000002577C696100][000002577D52CE80 49] MacServer, [000002577C64B700][000002577D531000 49] Linux, [000002577C695E00][000002577D535180 49] LinuxNoEditor, [000002577C64B100][000002577D539300 49] LinuxAArch64NoEditor, [000002577C696F00][000002577D53D480 49] LinuxClient, [000002577C648700][000002577D565600 49] LinuxAArch64Client, [000002577C694C00][000002577D57B780 49] LinuxServer, [000002577C649C00][000002577D5018C0 49] LinuxAArch64Server, [000002577C697400][000002577D57FA00 49] Android, [000002577C648F00][000002577D587B40 49] Android_Low, [000002577C694F00][000002577D597CC0 49] Android_Mid, [000002577C648400][000002577D59E180 49] Android_High, [000002577C695A00][000002577D5AC300 49] Android_Default, [000002577C648800][000002577D5BC480 49] Android_Adreno4xx, [000002577C696900][000002577D5C8600 49] Android_Adreno5xx_Low, [000002577C648200][000002577D5CC780 49] Android_Adreno5xx, [000002577C696E00][000002577D5D0900 49] Android_Adreno6xx, [000002577C64B900][000002577D5FCA80 49] Android_Adreno6xx_Vulkan, [000002577C697800][000002577D622C00 49] Android_Mali_T6xx, [000002577C649E00][000002577D626D80 49] Android_Mali_T7xx, [000002577C697200][000002577D62AF00 49] Android_Mali_T8xx, [000002577C649300][000002577D62F080 49] Android_Mali_G71, [000002577C695100][000002577D637200 49] Android_Mali_G72, [000002577C648500][000002577D63F380 49] Android_Mali_G72_Vulkan, [000002577C696500][000002577D643500 49] Android_Mali_G76, [000002577C648E00][000002577D647680 49] Android_Mali_G76_Vulkan, [000002577C695700][000002577D679800 49] Android_Mali_G77, [000002577C64AF00][000002577D593940 49] Android_Mali_G77_Vulkan, [000002577C697B00][000002577D67DA80 49] Android_Vulkan_SM5, [000002577C64B800][000002577D681BC0 49] Android_PowerVR_G6xxx, [000002577C695400][000002577D689D00 49] Android_PowerVR_GT7xxx, [000002577C64BD00][000002577D6941C0 49] Android_PowerVR_GE8xxx, [000002577C694A00][000002577D6AC340 49] Android_PowerVR_GM9xxx, [000002577C649000][000002577D6B04C0 49] Android_PowerVR_GM9xxx_Vulkan, [000002577C695C00][000002577D6B4640 49] Android_TegraK1, [000002577C64A500][000002577D6C47C0 49] Android_Unknown_Vulkan, [000002577C694500][000002577D6C8940 49] Lumin, [000002577C675A00][000002577D70CAC0 49] Lumin_Desktop, [000002577C6DB800][000002577D71EC40 49] HoloLens, 
+[2021.05.07-16.14.47:591][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.07-16.14.47:591][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.07-16.14.47:591][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.07-16.14.47:591][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.07-16.14.47:591][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.07-16.14.47:676][  0]LogNetVersion: KitFisto 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1291201777)
+[2021.05.07-16.14.48:054][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.032793 seconds
+[2021.05.07-16.14.48:059][  0]LogUObjectArray: 16663 objects as part of root set at end of initial load.
+[2021.05.07-16.14.48:059][  0]LogUObjectAllocator: 4164480 out of 0 bytes used by permanent object pool.
+[2021.05.07-16.14.48:059][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.07-16.14.48:321][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.07-16.14.48:326][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.07-16.14.48:433][  0]LogPython: Using Python 3.7.7
+[2021.05.07-16.14.49:047][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2021.05.07-16.14.49:048][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2021.05.07-16.14.49:048][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2021.05.07-16.14.49:093][  0]SourceControl: Source control is disabled
+[2021.05.07-16.14.49:093][  0]SourceControl: Source control is disabled
+[2021.05.07-16.14.49:099][  0]SourceControl: Source control is disabled
+[2021.05.07-16.14.49:101][  0]SourceControl: Source control is disabled
+[2021.05.07-16.14.49:108][  0]SourceControl: Source control is disabled
+[2021.05.07-16.14.49:114][  0]LogUProjectInfo: Found projects:
+[2021.05.07-16.14.49:164][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.07-16.14.49:192][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.07-16.14.49:192][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.07-16.14.49:480][  0]LogCollectionManager: Loaded 0 collections in 0.000605 seconds
+[2021.05.07-16.14.49:491][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/Collections/' took 0.00s
+[2021.05.07-16.14.49:491][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Content/Developers/Henri/Collections/' took 0.00s
+[2021.05.07-16.14.49:491][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Content/Collections/' took 0.00s
+[2021.05.07-16.14.49:779][  0]LogEngine: Initializing Engine...
+[2021.05.07-16.14.49:779][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.07-16.14.49:780][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.07-16.14.49:867][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.07-16.14.49:878][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.07-16.14.49:879][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.07-16.14.49:883][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.07-16.14.49:883][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.07-16.14.49:883][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.07-16.14.49:883][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.07-16.14.49:883][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.07-16.14.49:883][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.07-16.14.49:883][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.07-16.14.49:883][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.07-16.14.49:883][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.07-16.14.49:883][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.07-16.14.49:883][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.07-16.14.49:883][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.07-16.14.49:898][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.07-16.14.49:898][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.07-16.14.49:918][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 5 Chat)
+[2021.05.07-16.14.49:920][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.07-16.14.49:922][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.07-16.14.49:922][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.07-16.14.49:923][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.07-16.14.49:923][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.07-16.14.49:923][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.07-16.14.49:923][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.07-16.14.49:923][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.07-16.14.49:923][  0]LogInit: FAudioDevice initialized.
+[2021.05.07-16.14.49:923][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.07-16.14.49:923][  0]LogNetVersion: Set ProjectVersion to 1.0.0.5. Version Checksum will be recalculated on next use.
+[2021.05.07-16.14.49:977][  0]LogDerivedDataCache: Saved boot cache 0.05s 81MB C:/Users/Henri/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.07-16.14.49:978][  0]LogInit: Texture streaming: Enabled
+[2021.05.07-16.14.49:991][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.05.07-16.14.49:995][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.07-16.14.49:995][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={31632078-4F95-CD73-7DEA-B89482646A40}
+[2021.05.07-16.14.49:995][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.07-16.14.49:996][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.07-16.14.50:025][  0]LogInit: Transaction tracking system initialized
+[2021.05.07-16.14.50:044][  0]BlueprintLog: New page: Editor Load
+[2021.05.07-16.14.50:108][  0]LocalizationService: Localization service is disabled
+[2021.05.07-16.14.50:128][  0]TimingProfiler: Initialize
+[2021.05.07-16.14.50:128][  0]TimingProfiler: OnSessionChanged
+[2021.05.07-16.14.50:128][  0]LoadingProfiler: Initialize
+[2021.05.07-16.14.50:128][  0]LoadingProfiler: OnSessionChanged
+[2021.05.07-16.14.50:128][  0]NetworkingProfiler: Initialize
+[2021.05.07-16.14.50:128][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.07-16.14.50:128][  0]MemoryProfiler: Initialize
+[2021.05.07-16.14.50:128][  0]MemoryProfiler: OnSessionChanged
+[2021.05.07-16.14.50:266][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.07-16.14.50:266][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.07-16.14.50:426][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Content/' took 0.04s
+[2021.05.07-16.14.50:426][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.07-16.14.50:429][  0]SourceControl: Source control is disabled
+[2021.05.07-16.14.50:429][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.754
+[2021.05.07-16.14.50:429][  0]Cmd: MAP LOAD FILE="C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Content/KitFisto/KF_Maps/KF_Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.07-16.14.50:429][  0]LightingResults: New page: Lighting Build
+[2021.05.07-16.14.50:430][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-16.14.50:430][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-16.14.50:430][  0]MapCheck: New page: Map Check
+[2021.05.07-16.14.50:430][  0]LightingResults: New page: Lighting Build
+[2021.05.07-16.14.50:436][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.05.07-16.14.50:723][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.05.07-16.14.51:218][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.495 s
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: 
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/SoftObjectPath.cpp] [Line: 79]
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name 'False'! You must pass in fully qualified package names
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: Stack: 
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37c41909 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37b18c0c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a91669 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37aa0ce9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a9cca6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a9cb5f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb377554f8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb32831448 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb29d838c5 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb29dada88 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb303a7e1e UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb30351282 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb3034dfc3 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37782f80 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb3799177a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb379c8d7a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb3798f6c4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37991c7b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb379ca28c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37b59195 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb3798401d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a0b9a2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a09f97 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a0ba69 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a09f97 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a09861 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb379a1da9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a0676a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37993bfe UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:218][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb379bf7f6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37b58e53 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb3798401d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a0b9a2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a09f97 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a0ba69 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a09f97 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a09861 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb379a1da9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a0676a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37993bfe UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb379bf7f6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37b58e53 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb3798401d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a0b9a2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a09f97 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a0ba69 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a09f97 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a09861 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb379a1da9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a0676a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37993bfe UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb379bf7f6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37b58e53 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb3798401d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a0b9a2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a09f97 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a0ba69 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a09f97 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a09861 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb379a1da9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a0676a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37993bfe UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb379bf7f6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37b58e53 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb3798401d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a0b9a2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a09f97 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a0ba69 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a09f97 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a09861 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb379a1da9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37a0676a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37993bfe UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb379bf7f6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37b58e53 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb37b57ff0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb324b1e7b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb324a1b6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb3248af2f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb32d0cc97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb3278e2c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb3278e0d8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb32d49760 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb32d08774 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7b987102b UE4Editor.exe!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7b987128a UE4Editor.exe!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7b98852ed UE4Editor.exe!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7b988801a UE4Editor.exe!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbb7827034 KERNEL32.DLL!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbb84a2651 ntdll.dll!UnknownFunction []
+[2021.05.07-16.14.51:219][  0]LogOutputDevice: Error: 
+[2021.05.07-16.14.51:224][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2021.05.07-16.14.52:361][  0]LogStats:                    SendNewReport -  1.136 s
+[2021.05.07-16.14.52:361][  0]LogStats:             FDebug::EnsureFailed -  1.637 s
+[2021.05.07-16.14.52:721][  0]LogLinker: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\PN_interactiveSpruceForest\Materials\MasterMaterials\MA_Summer.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N': Can't find file.
+[2021.05.07-16.14.52:722][  0]LogLinker: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\PN_interactiveSpruceForest\Materials\MasterMaterials\MA_Summer.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N': Can't find file.
+[2021.05.07-16.14.52:724][  0]LogLinker: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\PN_interactiveSpruceForest\Materials\MasterMaterials\MA_Summer.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N': Can't find file.
+[2021.05.07-16.14.53:476][  0]LogLinker: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\PN_interactiveSpruceForest\Materials\MasterMaterials\MA_Summer.uasset: Failed to load '/Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N': Can't find file.
+[2021.05.07-16.14.53:476][  0]LoadErrors: Failed to load /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N Referenced by MaterialExpressionTextureSample_9
+[2021.05.07-16.14.54:378][  0]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.07-16.14.54:395][  0]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\PN_interactiveSpruceForest\Materials\MaterialInstances\small\spruce_small_07_trunk.uasset: Failed to compile Material Instance with Base MA_Summer for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.14.54:395][  0]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.14.54:395][  0]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.14.54:401][  0]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.07-16.14.54:417][  0]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\PN_interactiveSpruceForest\Materials\MaterialInstances\small\spruce_small_05_trunk.uasset: Failed to compile Material Instance with Base MA_Summer for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.14.54:417][  0]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.14.54:417][  0]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.14.54:440][  0]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.07-16.14.54:451][  0]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\PN_interactiveSpruceForest\Materials\MaterialInstances\half\low\spruce_half_04_low_trunk.uasset: Failed to compile Material Instance with Base MA_Summer for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.14.54:451][  0]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.14.54:451][  0]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.14.54:461][  0]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.07-16.14.54:472][  0]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\PN_interactiveSpruceForest\Materials\MaterialInstances\half\low\spruce_half_03_low_trunk.uasset: Failed to compile Material Instance with Base MA_Summer for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.14.54:472][  0]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.14.54:473][  0]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.14.54:476][  0]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.07-16.14.54:488][  0]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\PN_interactiveSpruceForest\Materials\MaterialInstances\half\low\spruce_half_02_low_trunk.uasset: Failed to compile Material Instance with Base MA_Summer for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.14.54:488][  0]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.14.54:488][  0]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.14.54:497][  0]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.07-16.14.54:511][  0]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\PN_interactiveSpruceForest\Materials\MaterialInstances\full\low\spruce_full_03_low_trunk.uasset: Failed to compile Material Instance with Base MA_Summer for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.14.54:511][  0]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.14.54:511][  0]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.14.54:520][  0]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.05.07-16.14.54:534][  0]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\PN_interactiveSpruceForest\Materials\MaterialInstances\full\low\spruce_full_02_low_trunk.uasset: Failed to compile Material Instance with Base MA_Summer for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.14.54:534][  0]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.14.54:534][  0]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.14.54:560][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'KF_Level1'.
+[2021.05.07-16.14.54:561][  0]LogAIModule: Creating AISystem for world KF_Level1
+[2021.05.07-16.14.54:567][  0]LogMaterial: Display: Material /Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.MS_DefaultMaterial needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.05.07-16.14.54:578][  0]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial, compiling. 
+[2021.05.07-16.14.54:650][  0]MapCheck: Warning: MS_DefaultMaterial Material /Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.MS_DefaultMaterial was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.05.07-16.14.54:654][  0]LogMaterial: Display: Material /Game/MSPresets/MS_DefaultMaterial_Fuzzy/MS_DefaultMaterial_Fuzzy.MS_DefaultMaterial_Fuzzy needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.05.07-16.14.54:655][  0]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial_Fuzzy, compiling. 
+[2021.05.07-16.14.54:681][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 72
+[2021.05.07-16.14.54:681][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 66
+[2021.05.07-16.14.54:681][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 60
+[2021.05.07-16.14.54:681][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 54
+[2021.05.07-16.14.54:681][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 48
+[2021.05.07-16.14.54:681][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 42
+[2021.05.07-16.14.54:681][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 36
+[2021.05.07-16.14.54:681][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 30
+[2021.05.07-16.14.54:681][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 24
+[2021.05.07-16.14.54:681][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2021.05.07-16.14.54:681][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2021.05.07-16.14.54:681][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2021.05.07-16.14.54:681][  0]MapCheck: Warning: MS_DefaultMaterial_Fuzzy Material /Game/MSPresets/MS_DefaultMaterial_Fuzzy/MS_DefaultMaterial_Fuzzy.MS_DefaultMaterial_Fuzzy was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.05.07-16.14.54:781][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 66
+[2021.05.07-16.14.54:781][  0]LogScript: Warning: Script Msg: Divide by zero detected: -134.999969 / 0
+Script call stack:
+	Function /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Khaimera_AnimBlueprint.Khaimera_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Khaimera_AnimBlueprint.Khaimera_AnimBlueprint_C:ExecuteUbergraph_Khaimera_AnimBlueprint
+
+[2021.05.07-16.14.54:784][  0]LogScript: Warning: Script Msg: Divide by zero detected: -125.000000 / 0
+Script call stack:
+	Function /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Khaimera_AnimBlueprint.Khaimera_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Khaimera_AnimBlueprint.Khaimera_AnimBlueprint_C:ExecuteUbergraph_Khaimera_AnimBlueprint
+
+[2021.05.07-16.14.54:786][  0]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Khaimera_AnimBlueprint.Khaimera_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Khaimera_AnimBlueprint.Khaimera_AnimBlueprint_C:ExecuteUbergraph_Khaimera_AnimBlueprint
+
+[2021.05.07-16.14.54:888][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.07-16.14.54:888][  0]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=-63.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2021.05.07-16.14.55:011][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.05.07-16.14.55:014][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.07-16.14.55:015][  0]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.851ms to complete.
+[2021.05.07-16.14.55:034][  0]LogFileHelpers: Loading map 'KF_Level1' took 4.606
+[2021.05.07-16.14.55:039][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.364
+[2021.05.07-16.14.55:261][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-16.14.55:274][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-16.14.55:287][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-16.14.55:300][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-16.14.55:329][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0194 seconds. Added 3616 classes and 859 folders.
+[2021.05.07-16.14.55:334][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.05.07-16.14.55:337][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.07-16.14.55:337][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:337][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.07-16.14.55:337][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.05.07-16.14.55:338][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.07-16.14.55:338][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:338][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.07-16.14.55:338][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.05.07-16.14.55:339][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.07-16.14.55:339][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:339][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.07-16.14.55:339][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.05.07-16.14.55:340][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.07-16.14.55:340][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:340][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.07-16.14.55:340][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.05.07-16.14.55:341][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.07-16.14.55:341][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:341][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.07-16.14.55:341][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.05.07-16.14.55:342][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.07-16.14.55:342][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:342][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.07-16.14.55:342][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.05.07-16.14.55:343][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.07-16.14.55:343][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:343][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.07-16.14.55:343][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.05.07-16.14.55:343][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.07-16.14.55:343][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:343][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.07-16.14.55:343][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.05.07-16.14.55:344][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.07-16.14.55:344][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:344][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.07-16.14.55:344][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.05.07-16.14.55:345][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.07-16.14.55:345][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:345][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.07-16.14.55:345][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.05.07-16.14.55:346][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.07-16.14.55:346][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:346][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.07-16.14.55:346][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.05.07-16.14.55:347][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.07-16.14.55:347][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:347][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.07-16.14.55:347][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.05.07-16.14.55:348][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.07-16.14.55:348][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:348][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.07-16.14.55:348][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.05.07-16.14.55:349][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.07-16.14.55:349][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:349][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.07-16.14.55:349][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.05.07-16.14.55:350][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.07-16.14.55:350][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:350][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.07-16.14.55:350][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.05.07-16.14.55:351][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.07-16.14.55:351][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:351][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.07-16.14.55:351][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.05.07-16.14.55:352][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.07-16.14.55:352][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:352][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.07-16.14.55:352][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.05.07-16.14.55:353][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.07-16.14.55:353][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:353][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.07-16.14.55:353][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.05.07-16.14.55:354][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.07-16.14.55:354][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:354][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.07-16.14.55:354][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.05.07-16.14.55:354][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.07-16.14.55:354][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:354][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.07-16.14.55:354][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.05.07-16.14.55:355][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.07-16.14.55:355][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:355][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.07-16.14.55:355][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.05.07-16.14.55:356][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.07-16.14.55:356][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:356][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.07-16.14.55:356][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.05.07-16.14.55:357][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.07-16.14.55:357][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:357][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.07-16.14.55:357][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.05.07-16.14.55:358][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.07-16.14.55:358][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:358][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.07-16.14.55:358][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.05.07-16.14.55:359][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.07-16.14.55:359][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:359][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.07-16.14.55:359][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.05.07-16.14.55:360][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.07-16.14.55:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-16.14.55:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.07-16.14.55:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.05.07-16.14.55:432][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.05.07-16.14.55:439][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2021.05.07-16.14.55:795][  0]LogSlate: Took 0.000648 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.07-16.14.55:797][  0]LogSlate: Took 0.000462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.07-16.14.55:804][  0]LogSlate: Took 0.000667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.07-16.14.56:047][  0]LogRenderer: Reallocating scene render targets to support 1572x808 Format 9 NumSamples 1 (Frame:1).
+[2021.05.07-16.14.56:493][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.05.07-16.14.56:493][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.07-16.14.56:493][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.05.07-16.14.56:493][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.07-16.14.56:493][  0]LogLoad: (Engine Initialization) Total time: 11.82 seconds
+[2021.05.07-16.14.56:493][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.07-16.14.56:493][  0]LogInit: First time updating LLM stats...
+[2021.05.07-16.14.56:780][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 60
+[2021.05.07-16.14.56:780][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 55
+[2021.05.07-16.14.56:780][  0]LogContentStreaming: Texture pool size now 800 MB
+[2021.05.07-16.14.56:817][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 50
+[2021.05.07-16.14.56:817][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 46
+[2021.05.07-16.14.56:859][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 42
+[2021.05.07-16.14.56:859][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.07-16.14.57:014][  2]LogAssetRegistry: Asset discovery search completed in 9.6654 seconds
+[2021.05.07-16.14.57:019][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2021.05.07-16.14.57:233][  4]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 38
+[2021.05.07-16.14.57:295][  6]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 34
+[2021.05.07-16.14.57:353][  8]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 31
+[2021.05.07-16.14.57:527][ 20]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 28
+[2021.05.07-16.14.57:897][ 29]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 25
+[2021.05.07-16.14.57:973][ 31]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 22
+[2021.05.07-16.14.58:285][ 48]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 20
+[2021.05.07-16.14.58:349][ 52]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 18
+[2021.05.07-16.14.58:402][ 55]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 16
+[2021.05.07-16.14.58:402][ 55]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.05.07-16.14.58:457][ 58]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 12
+[2021.05.07-16.14.58:546][ 63]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2021.05.07-16.14.58:571][ 64]LogSlate: Window 'Message Log' being destroyed
+[2021.05.07-16.14.58:582][ 64]LogSlate: Window 'Message Log' being destroyed
+[2021.05.07-16.14.58:661][ 65]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2021.05.07-16.14.58:677][ 65]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Khaimera_AnimBlueprint.Khaimera_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Khaimera_AnimBlueprint.Khaimera_AnimBlueprint_C:ExecuteUbergraph_Khaimera_AnimBlueprint
+
+[2021.05.07-16.14.58:710][ 65]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.05.07-16.14.58:864][ 68]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2021.05.07-16.14.58:981][ 69]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.05.07-16.14.58:981][ 69]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.05.07-16.14.59:342][ 76]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2021.05.07-16.14.59:364][ 76]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2021.05.07-16.14.59:438][ 76]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2021.05.07-16.14.59:439][ 76]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.05.07-16.15.21:480][958]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.07-16.15.21:646][958]LogLinker: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Heroes\Revenant\Animations\Primary_Fire_Med_Montage.uasset: Failed to load '/Game/KitFisto/KF_Animations/Primary_Fire_Med': Can't find file.
+[2021.05.07-16.15.21:646][958]LogLinker: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Heroes\Revenant\Animations\Primary_Fire_Med_Montage.uasset: Failed to load '/Game/KitFisto/KF_Animations/Primary_Fire_Med': Can't find file.
+[2021.05.07-16.15.21:646][958]LogLinker: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Heroes\Revenant\Animations\Primary_Fire_Med_Montage.uasset: Failed to load '/Game/KitFisto/KF_Animations/Primary_Fire_Med': Can't find file.
+[2021.05.07-16.15.21:804][958]LogLinker: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Heroes\Revenant\Animations\Primary_Fire_Med_Montage.uasset: Failed to load '/Game/KitFisto/KF_Animations/Primary_Fire_Med': Can't find file.
+[2021.05.07-16.15.21:804][958]LoadErrors: Failed to load /Game/KitFisto/KF_Animations/Primary_Fire_Med.Primary_Fire_Med Referenced by Primary_Fire_Med_Montage
+[2021.05.07-16.15.21:804][958]LogLinker: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Heroes\Revenant\Animations\Primary_Fire_Med_Montage.uasset: Failed to load '/Game/KitFisto/KF_Animations/Primary_Fire_Med': Can't find file.
+[2021.05.07-16.15.21:804][958]LogLinker: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Heroes\Revenant\Animations\Primary_Fire_Med_Montage.uasset: Failed to load '/Game/KitFisto/KF_Animations/Primary_Fire_Med': Can't find file.
+[2021.05.07-16.15.21:804][958]LogLinker: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Heroes\Revenant\Animations\Primary_Fire_Med_Montage.uasset: Failed to load '/Game/KitFisto/KF_Animations/Primary_Fire_Med': Can't find file.
+[2021.05.07-16.15.21:833][958]LogTexture: Display: Building textures: DeprecatedTextureB8EBA0A34CABB633BF34F686579E7E68 (BGRA8, 128X128)
+[2021.05.07-16.15.21:892][958]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2021.05.07-16.15.21:896][958]LogLinker: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Heroes\Revenant\Animations\AnimBP_Revenant_Winter.uasset: Failed to load '/Game/Characters/Heroes/Revenant/Skins/Tier_3/Winter/Meshes/Revenant_Winter_Physics': Can't find file.
+[2021.05.07-16.15.21:897][958]LogLinker: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Heroes\Revenant\Animations\AnimBP_Revenant_Winter.uasset: Failed to load '/Game/Characters/Heroes/Revenant/Skins/Tier_3/Winter/Meshes/Revenant_Winter_Physics': Can't find file.
+[2021.05.07-16.15.21:897][958]LogLinker: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Heroes\Revenant\Animations\AnimBP_Revenant_Winter.uasset: Failed to load '/Game/Characters/Heroes/Revenant/Skins/Tier_3/Winter/Meshes/Revenant_Winter_Physics': Can't find file.
+[2021.05.07-16.15.21:897][958]LogLinker: Warning: Failed to load '/Game/Characters/Heroes/Revenant/Skins/Tier_3/Winter/Meshes/Revenant_Winter_Physics': Can't find file.
+[2021.05.07-16.15.21:898][958]LogLinker: Warning: Failed to load '/Game/Characters/Heroes/Revenant/Skins/Tier_3/Winter/Meshes/Revenant_Winter_Physics': Can't find file.
+[2021.05.07-16.15.21:901][958]LogLinker: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Heroes\Revenant\Animations\AnimBP_Revenant_Winter.uasset: Failed to load '/Game/Characters/Heroes/Revenant/Skins/Tier_3/Winter/Meshes/Revenant_Winter_Physics': Can't find file.
+[2021.05.07-16.15.21:901][958]LoadErrors: Failed to load /Game/Characters/Heroes/Revenant/Skins/Tier_3/Winter/Meshes/Revenant_Winter_Physics.Revenant_Winter_Physics Referenced by AnimGraphNode_RigidBody_0
+[2021.05.07-16.15.22:152][958]LogObjectTools: Deleting 1 worlds: /Game/ParagonRevenant/Characters/Heroes/Revenant/AnimationTestMap.AnimationTestMap
+[2021.05.07-16.15.22:152][958]LogObjectTools: Currently 3 active worlds: /Game/KitFisto/KF_Maps/KF_Level1.KF_Level1, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2021.05.07-16.15.22:163][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.05.07-16.15.24:625][958]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.07-16.15.24:631][958]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.07-16.15.24:643][958]LogWorld: UWorld::CleanupWorld for AnimationTestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-16.15.24:643][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-16.15.24:735][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.05.07-16.15.24:742][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.05.07-16.15.24:746][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.24:752][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.24:756][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.24:761][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.05.07-16.15.24:765][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.05.07-16.15.24:770][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.24:775][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.05.07-16.15.24:779][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.05.07-16.15.24:785][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.07-16.15.24:791][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.24:795][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.24:801][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.05.07-16.15.24:805][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.24:810][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.24:815][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.24:821][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.05.07-16.15.24:826][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.07-16.15.24:830][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.24:835][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.24:840][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.24:844][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.24:850][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.05.07-16.15.24:854][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.24:859][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.24:863][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.24:869][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.07-16.15.24:874][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.24:878][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.24:884][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.05.07-16.15.24:889][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.24:893][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.05.07-16.15.24:898][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.24:903][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.24:907][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.24:912][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.05.07-16.15.24:918][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.07-16.15.24:928][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.24:934][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.07-16.15.24:938][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.24:943][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.07-16.15.24:948][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.24:953][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.24:958][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.07-16.15.24:963][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.24:968][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.24:972][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.24:977][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.24:981][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.05.07-16.15.24:986][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.05.07-16.15.24:991][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.24:996][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.07-16.15.25:001][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:005][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.05.07-16.15.25:010][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.05.07-16.15.25:015][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.07-16.15.25:020][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:025][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:029][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:035][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.07-16.15.25:039][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:044][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:049][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.05.07-16.15.25:055][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.07-16.15.25:060][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:065][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:070][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.07-16.15.25:074][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:079][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:084][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.07-16.15.25:088][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:093][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:097][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.05.07-16.15.25:103][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.05.07-16.15.25:107][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.05.07-16.15.25:112][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:117][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:122][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:129][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:135][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:139][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:144][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.07-16.15.25:149][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.05.07-16.15.25:154][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:159][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:163][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:168][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:173][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:177][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:182][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.05.07-16.15.25:187][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:192][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.07-16.15.25:196][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.07-16.15.25:202][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:206][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:211][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:215][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.05.07-16.15.25:220][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:225][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:229][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:234][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.07-16.15.25:239][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:243][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:248][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:253][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:258][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:262][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:267][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.05.07-16.15.25:272][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:276][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:281][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:287][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:291][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:296][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:301][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:305][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:310][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:314][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:319][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:324][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:331][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:336][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.07-16.15.25:341][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:345][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:350][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.07-16.15.25:355][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:359][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:364][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:369][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.07-16.15.25:374][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.07-16.15.25:379][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:384][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.05.07-16.15.25:389][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:393][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:398][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:403][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:408][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:412][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:418][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.07-16.15.25:422][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.05.07-16.15.25:427][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:431][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:437][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:442][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:446][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:451][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.05.07-16.15.25:456][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.05.07-16.15.25:460][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:465][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:470][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:474][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:479][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:484][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.05.07-16.15.25:488][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:493][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:497][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:503][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.05.07-16.15.25:508][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:513][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.05.07-16.15.25:518][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.07-16.15.25:522][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.05.07-16.15.25:527][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:533][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.07-16.15.25:538][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:542][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:547][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:552][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:556][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:561][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:565][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.05.07-16.15.25:570][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:575][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:579][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:584][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.07-16.15.25:589][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:593][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:598][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:603][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:607][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:612][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:617][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.07-16.15.25:621][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:626][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:630][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:635][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:640][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:644][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:650][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.05.07-16.15.25:654][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:659][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:663][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:668][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.07-16.15.25:673][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:677][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:681][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:687][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:691][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:696][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:701][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.05.07-16.15.25:706][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.05.07-16.15.25:710][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:715][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:720][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:724][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:728][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:737][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:742][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:746][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:751][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:756][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.05.07-16.15.25:760][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:765][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.07-16.15.25:770][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:775][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:779][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:785][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.05.07-16.15.25:790][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:795][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.05.07-16.15.25:801][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.07-16.15.25:807][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.05.07-16.15.25:812][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.07-16.15.25:818][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.05.07-16.15.25:823][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.05.07-16.15.25:829][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.07-16.15.25:834][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.05.07-16.15.25:839][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.07-16.15.25:844][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.05.07-16.15.25:850][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.05.07-16.15.25:855][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:860][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:864][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:870][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.07-16.15.25:874][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:879][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:884][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:889][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:893][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:897][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:902][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:907][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:911][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:916][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.05.07-16.15.25:921][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:926][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:930][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:939][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.25:943][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:948][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.07-16.15.25:953][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:957][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:962][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:967][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.05.07-16.15.25:971][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:976][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.25:980][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:985][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.07-16.15.25:990][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:994][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.25:998][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.07-16.15.26:004][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.26:008][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.26:019][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.05.07-16.15.26:023][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.07-16.15.28:820][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.07-16.15.30:073][ 65]LogSavePackage: Moving 'C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/KF_Level13CE9DEB24A5A38EC74F8998ABF726869.tmp' to 'C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Content/KitFisto/KF_Maps/KF_Level1.umap'
+[2021.05.07-16.15.30:093][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KitFisto/KF_Maps/KF_Level1_BuiltData" FILE="C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Content/KitFisto/KF_Maps/KF_Level1_BuiltData.uasset" SILENT=true
+[2021.05.07-16.15.32:301][ 65]LogSavePackage: Moving 'C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Saved/KF_Level1_BuiltDataEF3202EA4FB4BE62F798BB83DA86ED7D.tmp' to 'C:/Users/Henri/Documents/GitHub/KitFisto/KitFisto/Content/KitFisto/KF_Maps/KF_Level1_BuiltData.uasset'
+[2021.05.07-16.15.32:320][ 65]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.07-16.15.32:320][ 65]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/KitFisto/KF_Maps/KF_Level1_BuiltData.KF_Level1_BuiltData
+[2021.05.07-16.15.32:320][ 65]LogContentValidation: Display: Validating World /Game/KitFisto/KF_Maps/KF_Level1.KF_Level1
+[2021.05.07-16.15.43:052][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.05.07-16.15.43:222][694]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.07-16.15.43:256][694]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.15.43:283][694]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 34
+[2021.05.07-16.15.43:283][694]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 31
+[2021.05.07-16.15.43:283][694]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 28
+[2021.05.07-16.15.43:283][694]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 25
+[2021.05.07-16.15.43:283][694]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 22
+[2021.05.07-16.15.43:283][694]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2021.05.07-16.15.43:283][694]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 16
+[2021.05.07-16.15.43:283][694]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2021.05.07-16.15.43:283][694]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2021.05.07-16.15.43:283][694]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2021.05.07-16.15.43:283][694]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.05.07-16.15.43:283][694]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.05.07-16.15.43:338][694]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.15.43:452][694]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.15.43:610][694]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.15.43:811][694]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.15.43:995][694]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.15.44:019][694]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 136
+[2021.05.07-16.15.44:178][694]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.15.44:377][694]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.15.44:456][694]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 228
+[2021.05.07-16.15.44:562][694]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.15.44:625][694]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 252
+[2021.05.07-16.15.44:711][694]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 242
+[2021.05.07-16.15.44:770][694]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.15.44:831][694]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 266
+[2021.05.07-16.15.44:913][694]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 256
+[2021.05.07-16.15.44:943][694]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 246
+[2021.05.07-16.15.44:973][694]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.15.44:994][694]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 236
+[2021.05.07-16.15.45:047][694]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 260
+[2021.05.07-16.15.45:047][694]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.07-16.15.45:166][694]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 250
+[2021.05.07-16.15.45:173][694]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.15.45:363][695]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 274
+[2021.05.07-16.15.45:393][695]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.15.45:827][699]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 298
+[2021.05.07-16.15.48:075][776]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 288
+[2021.05.07-16.15.48:775][792]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 278
+[2021.05.07-16.15.49:031][813]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 268
+[2021.05.07-16.15.49:212][828]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 258
+[2021.05.07-16.15.49:607][856]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 248
+[2021.05.07-16.15.49:704][864]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.07-16.15.49:810][864]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 238
+[2021.05.07-16.15.49:810][864]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 228
+[2021.05.07-16.15.49:810][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.05.07-16.15.49:877][864]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 218
+[2021.05.07-16.15.50:222][864]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 208
+[2021.05.07-16.15.50:222][864]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 198
+[2021.05.07-16.15.50:328][864]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 188
+[2021.05.07-16.15.50:691][864]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 178
+[2021.05.07-16.15.52:921][864]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 168
+[2021.05.07-16.15.53:357][864]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 158
+[2021.05.07-16.15.53:806][864]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 148
+[2021.05.07-16.15.53:844][864]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 138
+[2021.05.07-16.15.53:906][864]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 128
+[2021.05.07-16.15.54:005][864]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 118
+[2021.05.07-16.15.54:499][864]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 108
+[2021.05.07-16.15.54:692][864]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 98
+[2021.05.07-16.15.54:978][864]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 89
+[2021.05.07-16.15.55:025][864]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 81
+[2021.05.07-16.15.55:536][864]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 74
+[2021.05.07-16.15.55:787][864]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 67
+[2021.05.07-16.15.56:747][864]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 61
+[2021.05.07-16.15.57:488][864]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 55
+[2021.05.07-16.15.57:687][864]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 50
+[2021.05.07-16.15.57:778][864]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 45
+[2021.05.07-16.15.57:835][864]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 41
+[2021.05.07-16.15.57:989][864]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 37
+[2021.05.07-16.15.58:151][864]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 33
+[2021.05.07-16.15.58:387][864]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 30
+[2021.05.07-16.15.58:462][864]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 27
+[2021.05.07-16.15.58:754][864]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 24
+[2021.05.07-16.15.59:234][864]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2021.05.07-16.15.59:235][864]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 19
+[2021.05.07-16.15.59:258][864]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2021.05.07-16.15.59:275][864]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2021.05.07-16.15.59:314][864]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 13
+[2021.05.07-16.15.59:703][864]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2021.05.07-16.15.59:704][864]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.05.07-16.15.59:725][864]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2021.05.07-16.15.59:899][864]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2021.05.07-16.15.59:899][864]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2021.05.07-16.15.59:921][864]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.05.07-16.16.00:082][864]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2021.05.07-16.16.00:121][864]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2021.05.07-16.16.00:141][864]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.05.07-16.16.00:168][864]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.05.07-16.16.00:208][864]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.05.07-16.16.01:582][864]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.07-16.16.01:618][864]LogUObjectGlobals: Force Deleting 147 Package(s):
+	Asset Name: /Game/ParagonRevenant/Characters/Global/MaterialLayers/Metal/ML_DullPanelMetal.ML_DullPanelMetal
+	Asset Name: /Game/ParagonRevenant/Characters/Global/MaterialLayers/Synthetics/T_ML_CleanPlastic01.T_ML_CleanPlastic01
+	Asset Name: /Game/ParagonRevenant/Characters/Global/MaterialLayers/Leather/ML_Light_Leather01_Green.ML_Light_Leather01_Green
+	Asset Name: /Game/ParagonRevenant/Characters/Global/MaterialLayers/Leather/T_UnpleasentGreen.T_UnpleasentGreen
+	Asset Name: /Game/ParagonRevenant/Characters/Global/MaterialLayers/Leather/T_Light_Green.T_Light_Green
+	Asset Name: /Game/ParagonRevenant/Characters/Global/MaterialLayers/Leather/T_Dark_Leather_N.T_Dark_Leather_N
+	Asset Name: /Game/ParagonRevenant/Characters/Global/MaterialLayers/Wood/T_Wood02_D.T_Wood02_D
+	Asset Name: /Game/ParagonRevenant/Characters/Global/MaterialLayers/Wood/T_Wood02_N.T_Wood02_N
+	Asset Name: /Game/ParagonRevenant/Characters/Global/MaterialLayers/Metal/ML_Gray_Gun_Metal.ML_Gray_Gun_Metal
+	Asset Name: /Game/ParagonRevenant/Characters/Global/MaterialLayers/Metal/T_Rough_Metal_N.T_Rough_Metal_N
+[2021.05.07-16.16.08:922][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:924][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:924][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:925][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:926][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:926][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:927][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:928][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:928][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:928][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:929][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:930][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:930][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:931][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:931][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:932][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:933][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:933][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:934][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:935][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:935][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:936][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:937][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:937][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:938][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:939][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:939][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:940][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:941][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:941][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:942][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:943][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:943][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:944][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:945][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:945][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:945][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:946][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:946][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:947][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:948][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:948][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:949][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:950][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:950][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:951][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:952][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:952][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:953][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:954][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:954][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:955][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:956][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_blue_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:956][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:958][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:958][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_ThinLeather03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:958][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.08:958][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.08:958][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:959][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.08:959][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.08:959][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:960][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_ThinLeather03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:960][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.08:960][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.08:960][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:960][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.08:960][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.08:961][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:961][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_ThinLeather03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:961][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.08:961][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.08:961][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:961][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.08:961][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.08:962][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:962][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_ThinLeather03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:962][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.08:962][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.08:962][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:962][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.08:962][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.08:963][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:964][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_ThinLeather03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:964][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.08:964][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.08:964][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:964][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.08:964][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.08:964][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:965][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_ThinLeather03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:965][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.08:965][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.08:965][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:965][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.08:965][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.08:966][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:966][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_ThinLeather03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:966][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.08:966][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.08:966][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:966][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.08:966][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.08:967][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:968][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_ThinLeather03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:968][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.08:968][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.08:968][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:968][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.08:968][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.08:969][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:969][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_ThinLeather03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:969][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.08:969][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.08:969][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:969][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.08:969][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.08:970][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:970][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_ThinLeather03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:970][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.08:970][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.08:970][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:970][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.08:970][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.08:971][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:971][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_ThinLeather03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:972][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.08:972][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.08:972][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:972][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.08:972][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.08:973][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:975][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_Tan_Leather.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:975][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:976][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:977][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_Tan_Leather.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:977][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:978][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:980][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_Tan_Leather.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:980][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:981][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:982][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_Tan_Leather.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:982][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:983][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:985][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_Tan_Leather.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:985][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:986][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:988][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_Tan_Leather.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:988][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:988][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:990][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_Tan_Leather.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:990][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:991][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:992][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_Tan_Leather.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:992][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:993][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:995][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_Tan_Leather.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:995][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:996][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.08:997][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_Tan_Leather.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.08:997][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.08:998][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:000][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_Tan_Leather.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:000][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:001][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:003][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_Tan_Leather.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:003][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:003][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:005][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Leather\ML_Tan_Leather.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:005][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:008][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:008][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Fabric\ML_Fabric_Dirty.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:008][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.09:008][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.09:008][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:008][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.09:008][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Specular
+[2021.05.07-16.16.09:008][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.09:009][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:009][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Fabric\ML_Fabric_Dirty.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:009][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.09:009][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.09:009][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:009][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.09:009][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Specular
+[2021.05.07-16.16.09:009][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.09:010][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:011][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Fabric\ML_Fabric_Dirty.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:011][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.09:011][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.09:011][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:011][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.09:011][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Specular
+[2021.05.07-16.16.09:011][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.09:011][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:012][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Fabric\ML_Fabric_Dirty.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:012][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.09:012][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.09:012][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:012][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.09:012][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Specular
+[2021.05.07-16.16.09:012][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.09:013][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:013][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Fabric\ML_Fabric_Dirty.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:013][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.09:013][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.09:013][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:013][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.09:013][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Specular
+[2021.05.07-16.16.09:013][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.09:014][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:014][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Fabric\ML_Fabric_Dirty.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:014][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.09:014][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.09:014][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:014][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.09:014][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Specular
+[2021.05.07-16.16.09:014][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.09:015][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:016][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Fabric\ML_Fabric_Dirty.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:016][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.09:016][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.09:016][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:016][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.09:016][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Specular
+[2021.05.07-16.16.09:016][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.09:017][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:017][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Fabric\ML_Fabric_Dirty.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:017][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.09:017][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.09:017][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:017][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.09:017][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Specular
+[2021.05.07-16.16.09:018][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.09:018][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:019][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Fabric\ML_Fabric_Dirty.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:019][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.09:019][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.09:019][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:019][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.09:019][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Specular
+[2021.05.07-16.16.09:019][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.09:020][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:020][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Fabric\ML_Fabric_Dirty.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:020][864]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.07-16.16.09:020][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.05.07-16.16.09:020][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:020][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.05.07-16.16.09:020][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Specular
+[2021.05.07-16.16.09:020][864]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2021.05.07-16.16.09:021][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:021][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:021][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:022][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:023][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:023][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:023][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:024][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:024][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:025][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:025][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:025][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:026][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:026][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:026][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:027][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:027][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:027][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:028][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:028][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:028][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:029][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:029][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:029][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:030][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:030][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:031][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:031][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:032][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:032][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:033][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:033][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:033][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:034][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:034][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:034][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:035][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:035][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:035][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:036][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:037][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:037][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:037][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:038][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:038][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:039][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:039][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:039][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:040][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:040][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:040][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:041][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:041][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:041][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:042][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:042][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:042][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:043][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:043][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:043][864]LogMaterial: Display: 	Missing Material Function
+[2021.05.07-16.16.09:044][864]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.07-16.16.09:045][864]LogMaterial: Warning: [AssetLog] C:\Users\Henri\Documents\GitHub\KitFisto\KitFisto\Content\ParagonRevenant\Characters\Global\MaterialLayers\Metal\ML_Gray_Gun_Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.07-16.16.09:045][864]LogMaterial: Display: 	Missing Material Function
